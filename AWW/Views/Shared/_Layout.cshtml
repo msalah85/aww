@@ -1,6 +1,7 @@
 ﻿@using System.Web.Optimization
 @using AWW.Infrastructure.Helpers
 
+
 <!DOCTYPE html>
 <html lang="@CultureHelper.GetCurrentNeutralCulture()" dir="@(System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.IsRightToLeft? "rtl" : "ltr")">
 <head>
@@ -21,12 +22,12 @@
     @Styles.Render("~/Content/frontcss" + (CultureHelper.IsRighToLeft() ? "-rtl" : ""))
    
     <!-- theme style -->
-    @*<link href="~/Content/css/bootstrap.min.css" rel="stylesheet" type="text/css" />*@ <!-- bootstrap css -->
+
     <link href="~/Content/css/font-awesome.min.css" rel="stylesheet" type="text/css" /> <!-- fontawesome css -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700" rel="stylesheet"> <!-- google fonts -->
     <link rel="stylesheet" href="~/Content/css/owl.carousel.css"> <!-- owl carousel css -->
-    @*<link href="~/Content/css/style.css" rel="stylesheet" type="text/css" />*@ <!-- custom css -->
+
     <!-- end theme style -->
     @Html.Partial("_GoogleAnalytics")
 </head>

@@ -1,4 +1,4 @@
-﻿
+﻿@using AWW.Resources
 @{
 
     var culture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name.ToLowerInvariant();
@@ -27,18 +27,18 @@
         <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li class="active">
-                    <a href="@Url.Action("Index", "Home")" >Home <span class="sr-only">(current)</span></a>
+                    <a href="@Url.Action("Index", "Home")" >@DefaultResource.Homelabel <span class="sr-only">(current)</span></a>
           
                 </li>
                 <li>
                   
-                    <a href="@Url.Action("About", "Home")">AboutUs</a> 
+                    <a href="@Url.Action("About", "Home")">@DefaultResource.AboutUslabel</a> 
                 </li>
 
-                <li><a href="@Url.Action("Index", "Products")">Products</a></li>
-                <li><a href="@Url.Action("Index", "Products")">LABEL</a></li>
-                <li><a href="@Url.Action("Index", "News")">NEWS</a></li>
-                <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                <li><a href="@Url.Action("Index", "Products")">@DefaultResource.Productslabel</a></li>
+                <li><a href="@Url.Action("Index", "Products")">@DefaultResource.Labellabel</a></li>
+                <li><a href="@Url.Action("Index", "News")">@DefaultResource.Newslabel</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">@DefaultResource.ContactUslabel</a></li>
                 
             </ul>
             <span class="pull-right lang-btn">
