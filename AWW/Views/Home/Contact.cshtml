@@ -6,8 +6,8 @@
 <!-- breadcrumb -->
 <div class="container">
     <ol class="breadcrumb">
-        <li><a href="index.html">Home</a></li>
-        <li class="active"><a href="contact.html">Contact</a></li>
+        @*<li><a href="index.html">Home</a></li>
+        <li class="active"><a href="contact.html">Contact</a></li>*@
     </ol>
 </div>
 <!-- end breadcrumb -->
@@ -25,17 +25,17 @@
                 <div class="col-xs-offset-1 col-md-4">
                     <div class="contact-icon"><i class="fa fa-map-marker"></i></div>
                     <h6 class="contact-heading">Address</h6>
-                    <p>John Doe, Comapny Inc. 12345 South <br />Main Street Anywhere, USA</p>
+                    <p>P.O. Box: 8480 - SAIF ZONE<br />Sharjah - U A E</p>
                 </div>
                 <div class="col-xs-offset-1 col-md-offset-0 col-md-4">
                     <div class="contact-icon"><i class="fa fa-envelope"></i></div>
                     <h6 class="contact-heading">Email</h6>
-                    <p>Email: <a href="../../cdn-cgi/l/email-protection.htm" class="__cf_email__" data-cfemail="c1a8afa7aeaca0a8adaca481b1b3a8afb5aea6b3a0acefa2aeac">[email&#160;protected]</a> <br />Web: www.printogram.com</p>
+                    <p>Email: <a href="mailto: awwiq@ymail.com" class="__cf_email__" >awwiq@ymail.com</a> <br />Web: www.awwiq.com</p>
                 </div>
                 <div class="col-xs-offset-1 col-md-offset-0 col-md-3">
                     <div class="contact-icon"><i class="fa fa-phone-square"></i></div>
                     <h6 class="contact-heading">Phone</h6>
-                    <p>Phone: +91-1.800.555.6789 <br />Fax: +91-1.800.555.6789</p>
+                    <p>Phone:<a href="tel: +971 6 5570171"> +971 6 5570171</a> <br />Fax: +971 6 5570171</p>
                 </div>
             </div>
         </div>
@@ -46,26 +46,26 @@
                 </div>
                 <div class="col-xs-offset-1 col-md-4">
                     <div class="form-group">
-                        <input type="text" class="form-control" id="contact-name" placeholder="Enter your name...">
+                        <input type="text" class="form-control" id="Name" placeholder="Enter your name...">
                     </div>
                 </div>
                 <div class="col-xs-offset-1 col-md-offset-0 col-md-4">
                     <div class="form-group">
-                        <input type="email" class="form-control" id="contact-email" placeholder="youremail@email.com">
+                        <input type="email" class="form-control" id="Email" placeholder="youremail@email.com">
                     </div>
                 </div>
                 <div class="col-xs-offset-1 col-md-offset-0 col-md-3">
                     <div class="form-group">
-                        <input type="text" class="form-control" id="contact-sub" placeholder="Subject (Optional)">
+                        <input type="text" class="form-control" id="Subject" placeholder="Subject (Optional)">
                     </div>
                 </div>
                 <div class="col-xs-offset-1 col-md-11">
                     <div class="form-group">
-                        <textarea placeholder="Product detail" rows="8"></textarea>
+                        <textarea placeholder="Product detail" id="Message" rows="8"></textarea>
                     </div>
                 </div>
                 <div class="col-xs-offset-1 col-md-11 quote-btn">
-                    <a href="contact.html#" class="btn btn-default">Submit</a>
+                    <button type="submit" class="btn btn-default">Submit</button>
                 </div>
             </div>
         </div>
@@ -77,8 +77,9 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14424.256961061288!2d55.481551436356796!3d25.33562528518589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f5e36cfa2cc7%3A0x11f502f4edb88468!2sSaif+Zone+-+Sharjah+-+United+Arab+Emirates!5e0!3m2!1sen!2sin!4v1518000970648" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 </div>
 <!-- end map -->
+@section Scripts{
 <script>
-  jQuery(function($) {
+    $(document).ready(function () {
     // Asynchronously Load the map API
     var script = document.createElement('script');
     script.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14424.256961061288!2d55.481551436356796!3d25.33562528518589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f5e36cfa2cc7%3A0x11f502f4edb88468!2sSaif+Zone+-+Sharjah+-+United+Arab+Emirates!5e0!3m2!1sen!2sin!4v1518000970648";
@@ -104,3 +105,4 @@
     });
   }
 </script>
+}

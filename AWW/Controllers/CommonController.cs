@@ -45,7 +45,27 @@ namespace AWW.Controllers
            // return RedirectToAction("Index","Home");
             return Redirect(Request.UrlReferrer.ToString());
         }
+        [ChildActionOnly]
+        public ActionResult NewsletterWidget()
+        {
+            return PartialView("_NewsletterWidget");
+        }
+        [HttpPost]
+        public ActionResult SubscribeNewsletter(string email, string returnUrl)
+        {
+            if (ModelState.IsValid)
+            {
+               
+                ModelState.Clear();
 
-        
+            }
+
+            
+
+            return Redirect(returnUrl);
+           
+
+        }
+
     }
 }

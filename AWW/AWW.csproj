@@ -145,6 +145,7 @@
     <Compile Include="Controllers\CommonController.cs" />
     <Compile Include="Controllers\FrontBaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\labelController.cs" />
     <Compile Include="Controllers\NewsController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Global.asax.cs">
@@ -153,6 +154,7 @@
     <Compile Include="Infrastructure\Extensions\EnumExtensions.cs" />
     <Compile Include="Infrastructure\Extensions\HtmlExtensions.cs" />
     <Compile Include="Infrastructure\Helpers\CultureHelper.cs" />
+    <Compile Include="Models\SubscribersViewModel.cs" />
     <Compile Include="Resources\DefaultResource.ar.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -169,10 +171,12 @@
     <Content Include="Content\css\cssrtl\bootstrap-rtl.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\font-awesome.min.css" />
+    <Content Include="Content\css\lightbox.css" />
     <Content Include="Content\css\owl.carousel.css" />
     <Content Include="Content\css\cssrtl\style-rtl.css" />
     <Content Include="Content\css\style.css" />
-    <Content Include="Content\images\about-image.jpg" />
+    <Content Include="Content\images\about-image-1.jpg" />
+    <Content Include="Content\images\about-image.png" />
     <Content Include="Content\images\about-slider-01.jpg" />
     <Content Include="Content\images\about-slider-02.jpg" />
     <Content Include="Content\images\about-slider-03.jpg" />
@@ -180,6 +184,7 @@
     <Content Include="Content\images\about-slider-05.jpg" />
     <Content Include="Content\images\about-slider-06.jpg" />
     <Content Include="Content\images\about-slider-07.jpg" />
+    <Content Include="Content\images\aboutus2.png" />
     <Content Include="Content\images\bannerimage_3.jpg" />
     <Content Include="Content\images\bg\testimonial_bg.jpg" />
     <Content Include="Content\images\bg\video-bg.jpg" />
@@ -200,7 +205,8 @@
     <Content Include="Content\images\blog\recent-blog-2.jpg" />
     <Content Include="Content\images\blog\recent-blog-3.jpg" />
     <Content Include="Content\images\blog\sugest-blog-1.jpg" />
-    <Content Include="Content\images\favicon\favicon.ico" />
+    <Content Include="Content\images\close.png" />
+    <Content Include="Content\images\favicon\favicon.png" />
     <Content Include="Content\images\findus.jpg" />
     <Content Include="Content\images\icons\arrow-job.png" />
     <Content Include="Content\images\icons\features-1.png" />
@@ -228,17 +234,34 @@
     <Content Include="Content\images\icons\product-7.png" />
     <Content Include="Content\images\icons\product-8.png" />
     <Content Include="Content\images\icons\product-9.png" />
+    <Content Include="Content\images\loading.gif" />
+    <Content Include="Content\images\logo-footer-1.png" />
     <Content Include="Content\images\logo-footer.png" />
     <Content Include="Content\images\logo.png" />
+    <Content Include="Content\images\next.png" />
+    <Content Include="Content\images\page-round-33.png" />
     <Content Include="Content\images\page-round.png" />
+    <Content Include="Content\images\page-round1-1.png" />
+    <Content Include="Content\images\page-round1.png" />
+    <Content Include="Content\images\page-round2-2.png" />
+    <Content Include="Content\images\page-round2.png" />
+    <Content Include="Content\images\page-round3.png" />
     <Content Include="Content\images\portfolio\portfolio-1.jpg" />
     <Content Include="Content\images\portfolio\portfolio-3.jpg" />
     <Content Include="Content\images\portfolio\portfolio-4.jpg" />
     <Content Include="Content\images\portfolio\portfolio-5.jpg" />
     <Content Include="Content\images\portfolio\portfolio-6.jpg" />
     <Content Include="Content\images\portfolio\portfolio-8.jpg" />
+    <Content Include="Content\images\prev.png" />
     <Content Include="Content\images\printogrammer-1.jpg" />
     <Content Include="Content\images\printogrammer-2.jpg" />
+    <Content Include="Content\images\products\lb1.jpg" />
+    <Content Include="Content\images\products\lb10.jpg" />
+    <Content Include="Content\images\products\lb14.jpg" />
+    <Content Include="Content\images\products\lb16.jpg" />
+    <Content Include="Content\images\products\lb2.jpg" />
+    <Content Include="Content\images\products\news-1.jpg" />
+    <Content Include="Content\images\products\news.jpg" />
     <Content Include="Content\images\products\product-01-medium.png" />
     <Content Include="Content\images\products\product-01-thumb.png" />
     <Content Include="Content\images\products\product-02-thumb.png" />
@@ -275,11 +298,17 @@
     <Content Include="Content\images\team-7.jpg" />
     <Content Include="Content\images\team-8.jpg" />
     <Content Include="Content\images\work-1.jpg" />
+    <Content Include="Content\images\work-1.png" />
     <Content Include="Content\images\work-2.jpg" />
+    <Content Include="Content\images\work-2.png" />
     <Content Include="Content\images\work-3.jpg" />
+    <Content Include="Content\images\work-3.png" />
     <Content Include="Content\images\work-4.jpg" />
+    <Content Include="Content\images\work-4.png" />
     <Content Include="Content\images\work-5.jpg" />
+    <Content Include="Content\images\work-5.png" />
     <Content Include="Content\images\work-6.jpg" />
+    <Content Include="Content\images\work-6.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="ApplicationInsights.config">
@@ -287,10 +316,13 @@
     </Content>
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\contact-us.js" />
     <Content Include="Scripts\jquery.countdown.js" />
     <Content Include="Scripts\jquery.counterup.js" />
     <Content Include="Scripts\jquery.elevatezoom.js" />
     <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\lightbox-plus-jquery.js" />
+    <Content Include="Scripts\lightbox.js" />
     <Content Include="Scripts\owl.carousel.js" />
     <Content Include="Scripts\particles.js" />
     <Content Include="Scripts\theme.js" />
@@ -312,7 +344,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\fonts\fontawesome-webfont.ttf" />
@@ -324,6 +355,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Products\Index.cshtml" />
     <Content Include="Views\News\Index.cshtml" />
+    <Content Include="Views\label\Index.cshtml" />
+    <Content Include="Views\Shared\_NewsletterWidget.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\DefaultResource.resx">
