@@ -170,7 +170,6 @@
   <ItemGroup>
     <Content Include="Content\css\cssrtl\bootstrap-rtl.css" />
     <Content Include="Content\css\bootstrap.min.css" />
-    <Content Include="Content\css\cssrtl\owl.carousel.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\lightbox.css" />
     <Content Include="Content\css\owl.carousel.css" />
@@ -278,6 +277,12 @@
     <Content Include="Content\images\products\product-7.png" />
     <Content Include="Content\images\products\product-8.png" />
     <Content Include="Content\images\products\product-9.png" />
+    <Content Include="Content\images\products\product1-1.png" />
+    <Content Include="Content\images\products\product2-2.png" />
+    <Content Include="Content\images\products\product3-3.png" />
+    <Content Include="Content\images\products\product4-4.png" />
+    <Content Include="Content\images\products\product5-5.png" />
+    <Content Include="Content\images\products\product6-6.png" />
     <Content Include="Content\images\products\recent-product-1.jpg" />
     <Content Include="Content\images\products\recent-product-2.jpg" />
     <Content Include="Content\images\products\recent-product-3.jpg" />
@@ -362,6 +367,7 @@
     <Content Include="Views\News\Index.cshtml" />
     <Content Include="Views\label\Index.cshtml" />
     <Content Include="Views\Shared\_NewsletterWidget.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\DefaultResource.resx">
