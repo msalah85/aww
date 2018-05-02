@@ -170,6 +170,7 @@
   <ItemGroup>
     <Content Include="Content\css\cssrtl\bootstrap-rtl.css" />
     <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\cssrtl\owl.carousel.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\lightbox.css" />
     <Content Include="Content\css\owl.carousel.css" />
@@ -268,11 +269,15 @@
     <Content Include="Content\images\products\product-03-thumb.png" />
     <Content Include="Content\images\products\product-04-thumb.png" />
     <Content Include="Content\images\products\product-1.png" />
+    <Content Include="Content\images\products\product-10.png" />
     <Content Include="Content\images\products\product-2.png" />
     <Content Include="Content\images\products\product-3.png" />
     <Content Include="Content\images\products\product-4.png" />
     <Content Include="Content\images\products\product-5.png" />
     <Content Include="Content\images\products\product-6.png" />
+    <Content Include="Content\images\products\product-7.png" />
+    <Content Include="Content\images\products\product-8.png" />
+    <Content Include="Content\images\products\product-9.png" />
     <Content Include="Content\images\products\recent-product-1.jpg" />
     <Content Include="Content\images\products\recent-product-2.jpg" />
     <Content Include="Content\images\products\recent-product-3.jpg" />

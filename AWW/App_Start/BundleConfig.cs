@@ -11,11 +11,11 @@ namespace AWW
             //front css
             bundles.Add(new StyleBundle("~/Content/frontcss").Include(
                       "~/Content/css/bootstrap.min.css",
-                      "~/Content/css/style.css"));
+                      "~/Content/css/style.css","~/Content/css/owl.carousel.css"));
 
             bundles.Add(new StyleBundle("~/Content/frontcss-rtl").Include(
                       "~/Content/css/cssrtl/bootstrap-rtl.css",
-                      "~/Content/css/cssrtl/style-rtl.css"));
+                      "~/Content/css/cssrtl/style-rtl.css", "~/Content/css/cssrtl/owl.carousel.css"));
         }
     }
 }
