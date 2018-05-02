@@ -81,6 +81,7 @@
                 }
             }
         }), e("#clients-slider").owlCarousel({
+            rtl: true,
             loop: !0,
             items: 6,
             dots: !1,

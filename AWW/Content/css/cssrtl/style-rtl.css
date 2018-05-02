@@ -1,5 +1,5 @@
 body, h1, h2, h3, h4, h5, h6 {
-    font-family: Montserrat, sans-serif
+    font-family: 'Droid Arabic Kufi',Montserrat, sans-serif
 }
 
 body {
@@ -202,7 +202,7 @@ ul {
     .section-heading:after, .section-heading:before {
         content: " ";
         position: absolute;
-        left: -40px
+        right: -40px
     }
 
     .section-heading:before {
@@ -605,14 +605,14 @@ ul {
 
         .slider-social ul li a {
             color: #666;
-            font-size: 22px;
-            padding: 5px 10px;
+            font-size: 19px;
+            padding: 0 10px;
             border: 1px solid #666;
             border-right: none;
             background-color: transparent
         }
 
-        .slider-social ul li:last-of-type a {
+        .slider-social ul li:first-of-type a {
             border-right: 1px solid #666
         }
 
@@ -624,7 +624,7 @@ ul {
 .home-slider-main .owl-controls {
     position: absolute;
     bottom: 82px;
-    right: 0
+    left: 0
 }
 
 .home-slider-main .owl-nav {
@@ -795,7 +795,7 @@ ul {
 }
 
     .quotation-form .form-control {
-        width: 555px;
+        width: 535px;
         height: 50px;
         border-bottom: none;
         padding: 6px 12px;
@@ -1235,7 +1235,7 @@ p.testimonial-client {
 i.facts-icon {
     color: #FFF;
     font-size: 36px;
-    margin-right: 10px
+    margin-left: 10px
 }
 
 .facts-number {
