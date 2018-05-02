@@ -348,6 +348,9 @@ ul {
     box-shadow: 0 1px 15px rgba(0, 0, 0, .2)
 }
 
+    .top-nav-collapse .logo img {
+        width: 52px;
+    }
 
 .lang-btn {
     width: 35px;
