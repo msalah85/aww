@@ -17,9 +17,9 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0
 }
 
-.form-control, p {
+/*.form-control, p {
     font-family: 'Droid Serif', serif
-}
+}*/
 
 h1 {
     font-size: 40px
@@ -40,7 +40,7 @@ h3 {
 p {
     color: #000;
     line-height: 30px;
-    letter-spacing: .05em;
+    /*letter-spacing: .05em;*/
     font-size: 14px;
     font-weight: 400
 }
@@ -73,7 +73,6 @@ ul {
 .section-heading, .section-heading-rgt {
     margin-top: 80px;
     margin-bottom: 88px;
-    letter-spacing: .075em;
     text-transform: uppercase
 }
 
@@ -115,7 +114,7 @@ ul {
 }
 
 .product-img, .product-img a {
-    cursor: url(../images/icons/curson-plus.png), auto
+    cursor: url(../../images/icons/curson-plus.png), auto
 }
 
 .gradient-overlay, .navbar-default {
@@ -202,12 +201,12 @@ ul {
     .section-heading:after, .section-heading:before {
         content: " ";
         position: absolute;
-        right: -40px
+        right: -20px
     }
 
     .section-heading:before {
         width: 100%;
-        height: 1px;
+        height: 0;
         top: 12px;
         background-color: #FFF
     }
@@ -228,13 +227,13 @@ ul {
     .section-heading-rgt:after, .section-heading-rgt:before {
         content: " ";
         position: absolute;
-        right: -40px;
+        right: -20px;
         background-repeat: no-repeat
     }
 
     .section-heading-rgt:before {
         width: 100%;
-        height: 1px;
+        /*height: 1px;*/
         top: 12px;
         background-color: #FFF
     }
@@ -252,13 +251,11 @@ ul {
 
 .middle-heading {
     font-weight: 400;
-    letter-spacing: .05em;
     margin-bottom: 14px
 }
 
 .block-heading {
     text-transform: uppercase;
-    letter-spacing: .075em;
     margin-bottom: 11px;
     line-height: 1.5
 }
@@ -317,7 +314,7 @@ ul {
     border-color: transparent;
     border-radius: 0;
     transition: all .3s ease;
-    background-image: url('../images/bg/testimonial_bg.jpg')
+    background-image: url('../../images/bg/testimonial_bg.jpg')
 }
 
     .navbar-default .navbar-nav li a, .navbar-default .navbar-nav li a:focus, .work-block {
@@ -582,7 +579,6 @@ ul {
 .slider-heading {
     color: #000;
     font-size: 200px;
-    letter-spacing: 20px
 }
 
     .slider-heading span {
@@ -600,7 +596,7 @@ ul {
 
     .slider-social ul li {
         display: inline-block;
-        margin: 0 -2px
+        margin: 0 -3px
     }
 
         .slider-social ul li a {
@@ -670,7 +666,6 @@ ul {
 
     .slider-heading {
         font-size: 30px;
-        letter-spacing: 1;
         color: #FF6101
     }
 
@@ -686,7 +681,6 @@ ul {
 @media (min-width:767px) and (max-width:992px) {
     .slider-heading {
         font-size: 80px;
-        letter-spacing: 1;
         color: #FF6101
     }
 
@@ -736,8 +730,12 @@ ul {
 }
 
     .features-block img {
-        float: left;
-        margin-right: 10px
+        float: right;
+        margin-left: 10px
+    }
+
+    .features-block p {
+        font-size: 16px;
     }
 
 .features-heading {
@@ -918,6 +916,14 @@ ul {
     padding: 45px 0 32px
 }
 
+    .idea p {
+        font-size: 16px;
+    }
+
+.service-dtl p {
+    font-size: 16px;
+}
+
 .work-main-block .section-heading {
     margin-bottom: 96px
 }
@@ -998,6 +1004,10 @@ ul {
     color: #FFF
 }
 
+.about-block p {
+    font-size: 16px;
+}
+
 @media(max-width:767px) {
     .filter-nav li, .work-block {
         margin-bottom: 30px
@@ -1027,6 +1037,10 @@ ul {
     background-color: #ECECEC;
     padding: 45px 0 32px
 }
+
+    .around-pressure p {
+        font-size: 16px;
+    }
 
 .products-cat-main-block .section-heading {
     margin-bottom: 96px
@@ -1350,8 +1364,8 @@ a.contact-btn {
 }
 
 .copyright .footer-logo {
-    float: left;
-    padding-right: 15px
+    float: right;
+    padding-left: 15px
 }
 
 .footer-social ul, select + i.fa {
@@ -1361,7 +1375,7 @@ a.contact-btn {
 .copyright p {
     color: #666;
     line-height: 1.71;
-    text-align: left
+    text-align: right
 }
 
 .footer-menu {
@@ -1867,7 +1881,7 @@ select + i.fa {
     font-weight: 400;
     margin-top: 116px;
     margin-bottom: 88px;
-    letter-spacing: .075em
+    /*letter-spacing: .075em*/
 }
 
     .service-number span {
@@ -1997,12 +2011,12 @@ select + i.fa {
 }
 
 .product-dtl {
-    padding: 10px 30px 40px;
+    padding: 10px 30px 40px 30px;
     background-color: #ECECEC
 }
 
 .product-left {
-    float: left
+    float: right
 }
 
 .product-heading {
@@ -2364,7 +2378,7 @@ a.download-link {
 .error-heading {
     color: #ECECEC;
     font-size: 110px;
-    letter-spacing: 70px;
+    /*letter-spacing: 70px;*/
     padding-left: 70px
 }
 
@@ -2402,7 +2416,7 @@ a.download-link {
 
     .error-heading {
         font-size: 60px;
-        letter-spacing: 10px;
+        /*letter-spacing: 10px;*/
         padding-left: 10px
     }
 }
@@ -2429,7 +2443,7 @@ a.download-link {
 .comming-heading {
     color: #ECECEC;
     font-size: 110px;
-    letter-spacing: 20px;
+    /*letter-spacing: 20px;*/
     padding-left: 20px
 }
 
@@ -2489,7 +2503,7 @@ a.download-link {
 @media (min-width:767px) and (max-width:992px) {
     .comming-heading {
         font-size: 90px;
-        letter-spacing: 10px;
+        /*letter-spacing: 10px;*/
         padding-left: 10px
     }
 
@@ -2518,7 +2532,7 @@ a.download-link {
 }
 
 .status {
-    background-image: url(../images/logo-footer.png);
+    background-image: url(../../images/logo-footer.png);
     animation: bounce 1s infinite;
     -webkit-animation: bounce 1s infinite;
     -moz-animation: bounce 1s infinite;
@@ -2616,7 +2630,7 @@ a.download-link {
         font-size: 15px;
         font-weight: 400;
         color: #000;
-        letter-spacing: 1px;
+        /*letter-spacing: 1px;*/
         margin: 0px 0px 30px 0px;
         line-height: 30px;
         font-family: 'Montserrat', sans-serif;
@@ -2640,4 +2654,8 @@ a.download-link {
 .carousel-control.left,
 .carousel-control.right {
     background-image: none !important;
+}
+
+.container p {
+    font-size: 16px;
 }

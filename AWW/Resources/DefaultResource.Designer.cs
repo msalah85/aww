@@ -61,11 +61,263 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We are the.
+        /// </summary>
+        public static string Aboutblockh1 {
+            get {
+                return ResourceManager.GetString("Aboutblockh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to leaders.
+        /// </summary>
+        public static string Aboutblockh2 {
+            get {
+                return ResourceManager.GetString("Aboutblockh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AWW is the fastest growing manufacturer and exporter of globalize competitive wet wipes products. Our product range from personal care, household, institutional and industrial wet wipes applications. AWW is the exporter of wet wipes and private labels to Kuwait and Saudi Arabia. Our products were solely manufactured in SAIF – Zone and locally monopolized the distribution of wet wipes products in the entire U. A. E..
+        /// </summary>
+        public static string Aboutblockp {
+            get {
+                return ResourceManager.GetString("Aboutblockp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clients.
+        /// </summary>
+        public static string Aboutfacts1 {
+            get {
+                return ResourceManager.GetString("Aboutfacts1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Members.
+        /// </summary>
+        public static string Aboutfacts2 {
+            get {
+                return ResourceManager.GetString("Aboutfacts2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Awards.
+        /// </summary>
+        public static string Aboutfacts3 {
+            get {
+                return ResourceManager.GetString("Aboutfacts3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        public static string AboutHeader1 {
+            get {
+                return ResourceManager.GetString("AboutHeader1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Arabian Wet Wipes.
+        /// </summary>
+        public static string AboutHeader2 {
+            get {
+                return ResourceManager.GetString("AboutHeader2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AboutUs.
         /// </summary>
         public static string AboutUslabel {
             get {
                 return ResourceManager.GetString("AboutUslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As an online printing company, we can assist you with advice, info and knowledge - Around The Pressure..
+        /// </summary>
+        public static string Aroundblockh {
+            get {
+                return ResourceManager.GetString("Aroundblockh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Visit us . Inspiration for your ideas are plenty..
+        /// </summary>
+        public static string Aroundblockp {
+            get {
+                return ResourceManager.GetString("Aroundblockp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Address.
+        /// </summary>
+        public static string ContactAddressh {
+            get {
+                return ResourceManager.GetString("ContactAddressh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to P.O. Box: 8480 - SAIF ZONE.
+        /// </summary>
+        public static string ContactAddressp1 {
+            get {
+                return ResourceManager.GetString("ContactAddressp1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sharjah - U A E.
+        /// </summary>
+        public static string ContactAddressp2 {
+            get {
+                return ResourceManager.GetString("ContactAddressp2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact-details.
+        /// </summary>
+        public static string Contactdetailsh {
+            get {
+                return ResourceManager.GetString("Contactdetailsh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Email.
+        /// </summary>
+        public static string ContactEmailh {
+            get {
+                return ResourceManager.GetString("ContactEmailh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Email:.
+        /// </summary>
+        public static string ContactEmailp1 {
+            get {
+                return ResourceManager.GetString("ContactEmailp1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to awwiq@ymail.com.
+        /// </summary>
+        public static string ContactEmailp2 {
+            get {
+                return ResourceManager.GetString("ContactEmailp2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web: www.awwiq.com.
+        /// </summary>
+        public static string ContactEmailp3 {
+            get {
+                return ResourceManager.GetString("ContactEmailp3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to details.
+        /// </summary>
+        public static string Contactformdetails {
+            get {
+                return ResourceManager.GetString("Contactformdetails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to youremail@email.com.
+        /// </summary>
+        public static string Contactformemail {
+            get {
+                return ResourceManager.GetString("Contactformemail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get in touch.
+        /// </summary>
+        public static string Contactformh {
+            get {
+                return ResourceManager.GetString("Contactformh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enter your name....
+        /// </summary>
+        public static string Contactformname {
+            get {
+                return ResourceManager.GetString("Contactformname", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Submit.
+        /// </summary>
+        public static string Contactformsend {
+            get {
+                return ResourceManager.GetString("Contactformsend", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subject (Optional).
+        /// </summary>
+        public static string Contactformsubject {
+            get {
+                return ResourceManager.GetString("Contactformsubject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phone.
+        /// </summary>
+        public static string ContactPhoneh {
+            get {
+                return ResourceManager.GetString("ContactPhoneh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phone:.
+        /// </summary>
+        public static string ContactPhonep1 {
+            get {
+                return ResourceManager.GetString("ContactPhonep1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to +971 6 5570171.
+        /// </summary>
+        public static string ContactPhonep2 {
+            get {
+                return ResourceManager.GetString("ContactPhonep2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fax: +971 6 5570171.
+        /// </summary>
+        public static string ContactPhonep3 {
+            get {
+                return ResourceManager.GetString("ContactPhonep3", resourceCulture);
             }
         }
         
@@ -79,11 +331,326 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to E-mail.
+        /// </summary>
+        public static string ContactUsModalemail {
+            get {
+                return ResourceManager.GetString("ContactUsModalemail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact Us.
+        /// </summary>
+        public static string ContactUsModalh {
+            get {
+                return ResourceManager.GetString("ContactUsModalh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message.
+        /// </summary>
+        public static string ContactUsModalMessage {
+            get {
+                return ResourceManager.GetString("ContactUsModalMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send.
+        /// </summary>
+        public static string ContactUsModalSend {
+            get {
+                return ResourceManager.GetString("ContactUsModalSend", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subject.
+        /// </summary>
+        public static string ContactUsModalSubject {
+            get {
+                return ResourceManager.GetString("ContactUsModalSubject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact.
+        /// </summary>
+        public static string Contactuspageh1 {
+            get {
+                return ResourceManager.GetString("Contactuspageh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Us.
+        /// </summary>
+        public static string Contactuspageh2 {
+            get {
+                return ResourceManager.GetString("Contactuspageh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-mail.
+        /// </summary>
+        public static string EmailPlaceholder {
+            get {
+                return ResourceManager.GetString("EmailPlaceholder", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project Complete.
+        /// </summary>
+        public static string Facts1 {
+            get {
+                return ResourceManager.GetString("Facts1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Client Worked With.
+        /// </summary>
+        public static string Facts2 {
+            get {
+                return ResourceManager.GetString("Facts2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cups of Coffee.
+        /// </summary>
+        public static string Facts3 {
+            get {
+                return ResourceManager.GetString("Facts3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Answered Questions.
+        /// </summary>
+        public static string Facts4 {
+            get {
+                return ResourceManager.GetString("Facts4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insights.
+        /// </summary>
+        public static string FeaturesblockInsightsh6 {
+            get {
+                return ResourceManager.GetString("FeaturesblockInsightsh6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to With intelligence..
+        /// </summary>
+        public static string FeaturesblockInsightsp {
+            get {
+                return ResourceManager.GetString("FeaturesblockInsightsp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inspiration.
+        /// </summary>
+        public static string FeaturesblockInspirationh6 {
+            get {
+                return ResourceManager.GetString("FeaturesblockInspirationh6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In action..
+        /// </summary>
+        public static string FeaturesblockInspirationp {
+            get {
+                return ResourceManager.GetString("FeaturesblockInspirationp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Products.
+        /// </summary>
+        public static string FeaturesblockProductsh6 {
+            get {
+                return ResourceManager.GetString("FeaturesblockProductsh6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In perfection..
+        /// </summary>
+        public static string FeaturesblockProductsp {
+            get {
+                return ResourceManager.GetString("FeaturesblockProductsp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string FeaturesblockServicesh6 {
+            get {
+                return ResourceManager.GetString("FeaturesblockServicesh6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to With flexibility..
+        /// </summary>
+        public static string FeaturesblockServicesp {
+            get {
+                return ResourceManager.GetString("FeaturesblockServicesp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AboutUs.
+        /// </summary>
+        public static string FooterAboutUslabel {
+            get {
+                return ResourceManager.GetString("FooterAboutUslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Have a.
+        /// </summary>
+        public static string Footerblockh1 {
+            get {
+                return ResourceManager.GetString("Footerblockh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to question ?.
+        /// </summary>
+        public static string Footerblockh2 {
+            get {
+                return ResourceManager.GetString("Footerblockh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Contact Us.
+        /// </summary>
+        public static string Footerblocklink {
+            get {
+                return ResourceManager.GetString("Footerblocklink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ContactUs.
+        /// </summary>
+        public static string FooterContactUslabel {
+            get {
+                return ResourceManager.GetString("FooterContactUslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Home.
+        /// </summary>
+        public static string FooterHomelabel {
+            get {
+                return ResourceManager.GetString("FooterHomelabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Label.
+        /// </summary>
+        public static string FooterLabellabel {
+            get {
+                return ResourceManager.GetString("FooterLabellabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to News.
+        /// </summary>
+        public static string FooterNewslabel {
+            get {
+                return ResourceManager.GetString("FooterNewslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Products.
+        /// </summary>
+        public static string FooterProductslabel {
+            get {
+                return ResourceManager.GetString("FooterProductslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
         public static string Homelabel {
             get {
                 return ResourceManager.GetString("Homelabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unleash your ideas. We&apos;ll help you.
+        /// </summary>
+        public static string Ideablockh {
+            get {
+                return ResourceManager.GetString("Ideablockh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Through simplicity and flexibility of our services can be reached quickly and easily to your pressure..
+        /// </summary>
+        public static string Ideablockp {
+            get {
+                return ResourceManager.GetString("Ideablockp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LA.
+        /// </summary>
+        public static string Labelh1 {
+            get {
+                return ResourceManager.GetString("Labelh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to BEL.
+        /// </summary>
+        public static string Labelh2 {
+            get {
+                return ResourceManager.GetString("Labelh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PERSONALISED WET.
+        /// </summary>
+        public static string Labelh21 {
+            get {
+                return ResourceManager.GetString("Labelh21", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AND DRY TISSUES.
+        /// </summary>
+        public static string Labelh22 {
+            get {
+                return ResourceManager.GetString("Labelh22", resourceCulture);
             }
         }
         
@@ -97,6 +664,123 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Custom printed tissue boxes, pocket paper handkerchiefs, refreshing towels &amp; wet wipes printed with your own logo or design.
+        /// </summary>
+        public static string Labelp1 {
+            get {
+                return ResourceManager.GetString("Labelp1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As advertising poster in a pocket size format or your logo long lasting on everyone&apos;s desktop. With tisssue products from AWWIQ you have found an optimal concept for the support of your marketing and sales activities. The most up-to-date printing plants and a trouble free just in time logistics make sure that an order goes off smoothly - even if it gets hectic. You can rely on us..
+        /// </summary>
+        public static string Labelp2 {
+            get {
+                return ResourceManager.GetString("Labelp2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Promotional.
+        /// </summary>
+        public static string Labelsection2h1 {
+            get {
+                return ResourceManager.GetString("Labelsection2h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tissue   Boxes.
+        /// </summary>
+        public static string Labelsection2h2 {
+            get {
+                return ResourceManager.GetString("Labelsection2h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to As advertising poster in a pocket size format or your logo long lasting on everyone&apos;s desktop. With tisssue products fromAWWIQ you have found an optimal concept for the support of your marketing and sales activities..
+        /// </summary>
+        public static string Labelsection2p {
+            get {
+                return ResourceManager.GetString("Labelsection2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A New Product.
+        /// </summary>
+        public static string News1h {
+            get {
+                return ResourceManager.GetString("News1h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..
+        /// </summary>
+        public static string News1p {
+            get {
+                return ResourceManager.GetString("News1p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A New Product.
+        /// </summary>
+        public static string News2h {
+            get {
+                return ResourceManager.GetString("News2h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..
+        /// </summary>
+        public static string News2p {
+            get {
+                return ResourceManager.GetString("News2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A New Product.
+        /// </summary>
+        public static string News3h {
+            get {
+                return ResourceManager.GetString("News3h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..
+        /// </summary>
+        public static string News3p {
+            get {
+                return ResourceManager.GetString("News3p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LATEST NEWS.
+        /// </summary>
+        public static string Newsh1 {
+            get {
+                return ResourceManager.GetString("Newsh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &amp; UPDATES.
+        /// </summary>
+        public static string Newsh2 {
+            get {
+                return ResourceManager.GetString("Newsh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to News.
         /// </summary>
         public static string Newslabel {
@@ -106,11 +790,371 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to OUR .
+        /// </summary>
+        public static string Ourmissionh1 {
+            get {
+                return ResourceManager.GetString("Ourmissionh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MISSION.
+        /// </summary>
+        public static string Ourmissionh2 {
+            get {
+                return ResourceManager.GetString("Ourmissionh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AWW understand of nowadays need and strive much to gratify consumers of crushy and economical products..
+        /// </summary>
+        public static string Ourmissionp {
+            get {
+                return ResourceManager.GetString("Ourmissionp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our Products.
+        /// </summary>
+        public static string Ourproductsh {
+            get {
+                return ResourceManager.GetString("Ourproductsh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string OurVisionh1 {
+            get {
+                return ResourceManager.GetString("OurVisionh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Vision.
+        /// </summary>
+        public static string OurVisionh2 {
+            get {
+                return ResourceManager.GetString("OurVisionh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This mainly include make-up remover, feminine wipe hand sanitizer, wet wipes of different flavours, refreshing towels and restaurant wipes in the form of retail and wholesale and with customized label and design satisfying client interest and requirment with creative approach towards innovation and leading concepts..
+        /// </summary>
+        public static string OurVisionp {
+            get {
+                return ResourceManager.GetString("OurVisionp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string OURWORKh1 {
+            get {
+                return ResourceManager.GetString("OURWORKh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Work.
+        /// </summary>
+        public static string OURWORKh2 {
+            get {
+                return ResourceManager.GetString("OURWORKh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Products.
         /// </summary>
         public static string Productslabel {
             get {
                 return ResourceManager.GetString("Productslabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Request a.
+        /// </summary>
+        public static string Quotationdtlh1 {
+            get {
+                return ResourceManager.GetString("Quotationdtlh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to quotation.
+        /// </summary>
+        public static string Quotationdtlh2 {
+            get {
+                return ResourceManager.GetString("Quotationdtlh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3D print.
+        /// </summary>
+        public static string Service1h1 {
+            get {
+                return ResourceManager.GetString("Service1h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to service.
+        /// </summary>
+        public static string Service1h2 {
+            get {
+                return ResourceManager.GetString("Service1h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Over the past 9 years Arabian Wet Wipes&apos;s 3D department has established a leading position in providing professional 3D print services. Supplying equipment from 3D Systems and software from Materialise we have specialised our expertise in these products and backed it up through our internationally renowned 3D bureau service. Our 3D clients include top international Architectural..
+        /// </summary>
+        public static string Service1p {
+            get {
+                return ResourceManager.GetString("Service1p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Digital .
+        /// </summary>
+        public static string Service2h1 {
+            get {
+                return ResourceManager.GetString("Service2h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to print.
+        /// </summary>
+        public static string Service2h2 {
+            get {
+                return ResourceManager.GetString("Service2h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans..
+        /// </summary>
+        public static string Service2p {
+            get {
+                return ResourceManager.GetString("Service2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leaflets.
+        /// </summary>
+        public static string Service3h1 {
+            get {
+                return ResourceManager.GetString("Service3h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to print.
+        /// </summary>
+        public static string Service3h2 {
+            get {
+                return ResourceManager.GetString("Service3h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans..
+        /// </summary>
+        public static string Service3p {
+            get {
+                return ResourceManager.GetString("Service3p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stationery.
+        /// </summary>
+        public static string Service4h1 {
+            get {
+                return ResourceManager.GetString("Service4h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to print.
+        /// </summary>
+        public static string Service4h2 {
+            get {
+                return ResourceManager.GetString("Service4h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans..
+        /// </summary>
+        public static string Service4p {
+            get {
+                return ResourceManager.GetString("Service4p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brochure.
+        /// </summary>
+        public static string Service5h1 {
+            get {
+                return ResourceManager.GetString("Service5h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to print.
+        /// </summary>
+        public static string Service5h2 {
+            get {
+                return ResourceManager.GetString("Service5h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans..
+        /// </summary>
+        public static string Service5p {
+            get {
+                return ResourceManager.GetString("Service5p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Large.
+        /// </summary>
+        public static string Service6h1 {
+            get {
+                return ResourceManager.GetString("Service6h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to print.
+        /// </summary>
+        public static string Service6h2 {
+            get {
+                return ResourceManager.GetString("Service6h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans..
+        /// </summary>
+        public static string Service6p {
+            get {
+                return ResourceManager.GetString("Service6p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string Servicesh1 {
+            get {
+                return ResourceManager.GetString("Servicesh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string Servicesh2 {
+            get {
+                return ResourceManager.GetString("Servicesh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next.
+        /// </summary>
+        public static string SliderNextbtn {
+            get {
+                return ResourceManager.GetString("SliderNextbtn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prev.
+        /// </summary>
+        public static string SliderPervbtn {
+            get {
+                return ResourceManager.GetString("SliderPervbtn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subscribe.
+        /// </summary>
+        public static string Subscribebtn {
+            get {
+                return ResourceManager.GetString("Subscribebtn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are the.
+        /// </summary>
+        public static string Testimonial1h1 {
+            get {
+                return ResourceManager.GetString("Testimonial1h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A W W.
+        /// </summary>
+        public static string Testimonial1h2 {
+            get {
+                return ResourceManager.GetString("Testimonial1h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, his ei tota contentiones, vel ad novum eripuit singulis, mea gloriatur forensibus id. Te eum harum definiebas, ut vis eros utinam, cu dicam lucilius forensibus nec. Te saepe noster his. Agam scripserit dissentiet ne sit, eum ad tation perpetua, at est viris minimum. Per ex animal bonorum, vis in eleifend vituperata. Mollis eirmod ne pri, in mei brute scriptorem. Ex harum honestatis pri. Duo te nemore feugait senserit. An sed esse laoreet hendrerit.
+        /// </summary>
+        public static string Testimonial1p {
+            get {
+                return ResourceManager.GetString("Testimonial1p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are the.
+        /// </summary>
+        public static string Testimonial2h1 {
+            get {
+                return ResourceManager.GetString("Testimonial2h1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to leaders.
+        /// </summary>
+        public static string Testimonial2h2 {
+            get {
+                return ResourceManager.GetString("Testimonial2h2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lorem ipsum dolor sit amet, his ei tota contentiones, vel ad novum eripuit singulis, mea gloriatur forensibus id. Te eum harum definiebas, ut vis eros utinam, cu dicam lucilius forensibus nec. Te saepe noster his. Agam scripserit dissentiet ne sit, eum ad tation perpetua, at est viris minimum. Per ex animal bonorum, vis in eleifend vituperata. Mollis eirmod ne pri, in mei brute scriptorem. Ex harum honestatis pri. Duo te nemore feugait senserit. An sed esse laoreet hendrerit.
+        /// </summary>
+        public static string Testimonial2p {
+            get {
+                return ResourceManager.GetString("Testimonial2p", resourceCulture);
             }
         }
     }

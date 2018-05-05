@@ -33,18 +33,17 @@
     @Html.Partial("_Header")
     @RenderBody()
     @Html.Partial("_Footer")
-    <script type="text/javascript" src="~/Scripts/jquery.min.js"></script> <!-- jquery library js -->
-    <script type="text/javascript" src="~/Scripts/bootstrap.min.js"></script> <!-- bootstrap js -->
-    <script type="text/javascript" src="~/Scripts/waypoints.min.js"></script> <!-- facts count js -->
-    <script type="text/javascript" src="~/Scripts/jquery.counterup.js"></script> <!-- facts count js-->
-    <script type="text/javascript" src="~/Scripts/owl.carousel.js"></script> <!-- owl carousel js-->
-    <script type="text/javascript" src="~/Scripts/jquery.elevatezoom.js"></script> <!-- image zoom js-->
-    <script type="text/javascript" src="~/Scripts/particles.js"></script> <!-- particales js-->
-    <script type="text/javascript" src="~/Scripts/app.js"></script> <!-- particales js-->
-    <script type="text/javascript" src="~/Scripts/theme.js"></script> <!-- custom js -->
+    <script type="text/javascript" src="~/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/waypoints.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.counterup.js"></script>
+    <script type="text/javascript" src="~/Scripts/owl.carousel.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.elevatezoom.js"></script>
+    @*<script type="text/javascript" src="~/Scripts/particles.js"></script>
+        <script type="text/javascript" src="~/Scripts/app.js"></script>*@
+    <script type="text/javascript" src="~/Scripts/theme.js"></script>
     <script src="~/Scripts/lightbox.js"></script>
     <script src="~/Scripts/contact-us.js"></script>
-    <!-- end jquery -->
     <script>
         $(function () {
             if ($(".home-slider-main").length) {
@@ -56,32 +55,10 @@
             var url = window.location;
             // Will only work if string in href matches with location
             $('#main-menu a[href="' + url + '"]').parent().addClass('active');
-
             // Will also work for relative and absolute hrefs
             $('#main-menu a').filter(function () {
                 return this.href == url;
-
             }).parent().addClass('active').parent().parent().addClass('active');
-
-            //var url = location.pathname.substring(location.pathname.lastIndexOf("/") + 1);
-
-            //var currentItem = $("#headermenu").find("[href$='" + url + "']");
-            //$(".bredcrumb").html($("Home"));
-            //$(currentItem.parents("li").get().reverse()).each(function () {
-            //    $(".bredcrumb").append("/").append($(this).children("a"));
-            //});
-            //$('#headermenu a').on('click', function () {
-            //    var $this = $(this),
-            //        $bc = $('<div class="item"></div>');
-
-            //    $this.parents('li').each(function (n, li) {
-            //        var $a = $(li).children('a').clone();
-            //        $bc.prepend(' / ', $a);
-            //    });
-            //    $('.breadcrumb').html($bc.prepend('<a href='+url+'>Home</a>'));
-            //    return false;
-            //})
-
         })
     </script>
     @RenderSection("Scripts", required: false)

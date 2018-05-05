@@ -2,31 +2,29 @@
     var culture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name.ToLowerInvariant();
 }
 
-
-<!-- footer -->
 <div id="footer-section" class="footer-main-block">
     <div class="container">
         <div class="footer-block text-center">
-            <h2 class="middle-heading">Have a <span>question ?</span></h2>
-            <a href="index.html#" class="contact-btn" data-toggle="modal" data-target="#contactModal">Contact Us <i class="fa fa-long-arrow-right"></i></a>
+            <h2 class="middle-heading">@DefaultResource.Footerblockh1<span>@DefaultResource.Footerblockh2</span></h2>
+            <a href="@Url.Action("Contact", "Home")">@DefaultResource.Footerblocklink <i class="fa fa-long-arrow-left"></i></a>
             <div class="modal fade contact-modal" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModal">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h6>Contact Us</h6>
+                            <h6>@DefaultResource.ContactUsModalh</h6>
                         </div>
                         <div class="modal-body">
                             <div class="form-group">
-                                <input type="email" class="form-control" id="email-contact" placeholder="E-mail">
+                                <input type="email" class="form-control" id="email-contact" placeholder="@DefaultResource.ContactUsModalemail">
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" id="subject-contact" placeholder="Subject">
+                                <input type="text" class="form-control" id="subject-contact" placeholder="@DefaultResource.ContactUsModalSubject">
                             </div>
                             <div class="form-group">
-                                <textarea placeholder="  Message" rows="4" cols="68"></textarea>
+                                <textarea placeholder="  @DefaultResource.ContactUsModalMessage" rows="4" cols="68"></textarea>
                             </div>
-                            <button type="button" class="btn btn-default">Send</button>
+                            <button type="button" class="btn btn-default">@DefaultResource.ContactUsModalSend</button>
                         </div>
                     </div>
                 </div>
@@ -39,29 +37,27 @@
             <div class="col-md-3 col-xs-6">
                 <div class="copyright">
                     <div class="footer-logo">
-                        <img src="~/Content/images/logo-footer.png" class="img-responsive" alt="logo">
+                        <img src="~/Content/images/logo-footer.png" class="img-responsive" alt="AWW logo">
                     </div>
-                
-
                     @if (culture == "en-us")
                     {
-                        <p>Copyright © 2018 All rights reserved.</p>
+                        <span>Copyright © 2018 All rights reserved.</span>
                     }
                     else
                     {
-                        <p> حقوق النشر © 2018 كل الحقوق محفوظه. </p>
+                        <span> © جميع الحقوق محفوظه @DateTime.Now.Year.</span>
                     }
                 </div>
             </div>
             <div class="col-md-6 hidden-xs hidden-sm">
                 <div class="footer-menu text-center">
                     <ul>
-                        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
-                        <li><a href="@Url.Action("About", "Home")">AboutUs</a></li>
-                        <li><a href="@Url.Action("Index", "Products")">Products</a></li>
-                        <li><a href="@Url.Action("Index", "Label")">Label</a></li>
-                        <li><a href="@Url.Action("Index", "News")">News</a></li>
-                        <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                        <li><a href="@Url.Action("Index", "Home")">@DefaultResource.FooterHomelabel</a></li>
+                        <li><a href="@Url.Action("About", "Home")">@DefaultResource.FooterAboutUslabel</a></li>
+                        <li><a href="@Url.Action("Index", "Products")">@DefaultResource.FooterProductslabel</a></li>
+                        <li><a href="@Url.Action("Index", "Label")">@DefaultResource.FooterLabellabel</a></li>
+                        <li><a href="@Url.Action("Index", "News")">@DefaultResource.FooterNewslabel</a></li>
+                        <li><a href="@Url.Action("Contact", "Home")">@DefaultResource.FooterContactUslabel</a></li>
                     </ul>
                 </div>
             </div>

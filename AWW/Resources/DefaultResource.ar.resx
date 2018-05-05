@@ -117,11 +117,65 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Aboutblockh1" xml:space="preserve">
+    <value>نحن </value>
+  </data>
+  <data name="Aboutblockh2" xml:space="preserve">
+    <value>الرواد</value>
+  </data>
+  <data name="AboutHeader1" xml:space="preserve">
+    <value>عن</value>
+  </data>
+  <data name="AboutHeader2" xml:space="preserve">
+    <value>اربيان ويت وايبس</value>
+  </data>
   <data name="AboutUslabel" xml:space="preserve">
     <value>عن الشركه</value>
   </data>
   <data name="ContactUslabel" xml:space="preserve">
     <value>اتصل بنا</value>
+  </data>
+  <data name="FeaturesblockInsightsh6" xml:space="preserve">
+    <value>افكار</value>
+  </data>
+  <data name="FeaturesblockInsightsp" xml:space="preserve">
+    <value>بذكاء</value>
+  </data>
+  <data name="FeaturesblockInspirationh6" xml:space="preserve">
+    <value>الهام</value>
+  </data>
+  <data name="FeaturesblockInspirationp" xml:space="preserve">
+    <value>فى العمل</value>
+  </data>
+  <data name="FeaturesblockProductsh6" xml:space="preserve">
+    <value>المنتجات</value>
+  </data>
+  <data name="FeaturesblockProductsp" xml:space="preserve">
+    <value>فى مستوى الكمال</value>
+  </data>
+  <data name="FeaturesblockServicesh6" xml:space="preserve">
+    <value>خدمات</value>
+  </data>
+  <data name="FeaturesblockServicesp" xml:space="preserve">
+    <value>بمرونه</value>
+  </data>
+  <data name="FooterAboutUslabel" xml:space="preserve">
+    <value>عن الشركه</value>
+  </data>
+  <data name="FooterContactUslabel" xml:space="preserve">
+    <value>اتصل بنا</value>
+  </data>
+  <data name="FooterHomelabel" xml:space="preserve">
+    <value>الرئيسيه</value>
+  </data>
+  <data name="FooterLabellabel" xml:space="preserve">
+    <value>الملصقات</value>
+  </data>
+  <data name="FooterNewslabel" xml:space="preserve">
+    <value>الاخبار</value>
+  </data>
+  <data name="FooterProductslabel" xml:space="preserve">
+    <value>المنتجات</value>
   </data>
   <data name="Homelabel" xml:space="preserve">
     <value>الرئيسيه</value>
@@ -134,5 +188,308 @@
   </data>
   <data name="Productslabel" xml:space="preserve">
     <value>المنتجات </value>
+  </data>
+  <data name="SliderNextbtn" xml:space="preserve">
+    <value>التالى</value>
+  </data>
+  <data name="SliderPervbtn" xml:space="preserve">
+    <value>السابق</value>
+  </data>
+  <data name="Aboutblockp" xml:space="preserve">
+    <value>العربيه للمناديل المبلله هى المصنع والمصدر الاسرع نموا لمنتجات المناديل المبلله مجموعة منتجاتنا من العنايه الشخصيه والمنزليه 
+نحن المصدر للمناديل المبلله والملصقات الخاصه الى الكويت والمملكه العربيه السعوديه تم تصنيع منتجاتنا فقط فى منطقة سيف  
+  ومحليا الموزع لكل منتجات المناديل المبلله فى الامارات</value>
+  </data>
+  <data name="Aboutfacts1" xml:space="preserve">
+    <value>
+عملاء</value>
+  </data>
+  <data name="Aboutfacts2" xml:space="preserve">
+    <value>أفراد</value>
+  </data>
+  <data name="Aboutfacts3" xml:space="preserve">
+    <value>جوائز</value>
+  </data>
+  <data name="Aroundblockh" xml:space="preserve">
+    <value>بصفتنا شركة طباعة عبر الإنترنت ، يمكننا مساعدتك بالمشورة والمعلومات والمعرفة - </value>
+  </data>
+  <data name="Aroundblockp" xml:space="preserve">
+    <value>تفضل بزيارتنا الهامنا بافكارك يعنى الكثير </value>
+  </data>
+  <data name="EmailPlaceholder" xml:space="preserve">
+    <value>البريد الالكترونى</value>
+  </data>
+  <data name="Ideablockh" xml:space="preserve">
+    <value>أطلق العنان لأفكارك. سنساعدك</value>
+  </data>
+  <data name="Ideablockp" xml:space="preserve">
+    <value>من خلال بساطة ومرونة خدماتنا يمكن الوصول بسرعه وسهوله لتطلعاتك</value>
+  </data>
+  <data name="OURWORKh1" xml:space="preserve">
+    <value>اعما</value>
+  </data>
+  <data name="OURWORKh2" xml:space="preserve">
+    <value>لنا</value>
+  </data>
+  <data name="Quotationdtlh1" xml:space="preserve">
+    <value>أطلب</value>
+  </data>
+  <data name="Quotationdtlh2" xml:space="preserve">
+    <value>عرض اسعار</value>
+  </data>
+  <data name="Service1h1" xml:space="preserve">
+    <value>الطباعة </value>
+  </data>
+  <data name="Service1h2" xml:space="preserve">
+    <value>ثلاثية الأبعاد</value>
+  </data>
+  <data name="Service1p" xml:space="preserve">
+    <value>على مدى السنوات التسع الماضيه حقق قسم الطباعه ثلاثية الابعاد موقعا رائدا فى تقديم خدمات الطباعه ثلاثية الابعاد باحترافيه من خلال توريد المعدات والبرامج لانظمة الطباعه الثلاثيه ولقد تخصصنا بخبرتنا فى هذه المنتجات</value>
+  </data>
+  <data name="Service2h1" xml:space="preserve">
+    <value>طباعه</value>
+  </data>
+  <data name="Service2h2" xml:space="preserve">
+    <value>رقميه</value>
+  </data>
+  <data name="Service2p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Service3h1" xml:space="preserve">
+    <value>منشورات </value>
+  </data>
+  <data name="Service3h2" xml:space="preserve">
+    <value>مطبوعه</value>
+  </data>
+  <data name="Service3p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Service4h1" xml:space="preserve">
+    <value> مطبوعات</value>
+  </data>
+  <data name="Service4h2" xml:space="preserve">
+    <value>مكتبيه</value>
+  </data>
+  <data name="Service4p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Service5h1" xml:space="preserve">
+    <value>طباعة</value>
+  </data>
+  <data name="Service5h2" xml:space="preserve">
+    <value>كتيب</value>
+  </data>
+  <data name="Service5p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Service6h1" xml:space="preserve">
+    <value>الطباعه</value>
+  </data>
+  <data name="Service6h2" xml:space="preserve">
+    <value>الكبيره</value>
+  </data>
+  <data name="Service6p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Servicesh1" xml:space="preserve">
+    <value>خد</value>
+  </data>
+  <data name="Servicesh2" xml:space="preserve">
+    <value>متنا</value>
+  </data>
+  <data name="Subscribebtn" xml:space="preserve">
+    <value>اشترك</value>
+  </data>
+  <data name="ContactAddressh" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="ContactAddressp1" xml:space="preserve">
+    <value>ص ب: صندوق 8480 منطقة سيف</value>
+  </data>
+  <data name="ContactAddressp2" xml:space="preserve">
+    <value>الشارقه الامارات العربيه المتحده</value>
+  </data>
+  <data name="Contactdetailsh" xml:space="preserve">
+    <value>بيانات - الاتصال</value>
+  </data>
+  <data name="ContactEmailh" xml:space="preserve">
+    <value>البريد الالكترونى</value>
+  </data>
+  <data name="ContactEmailp1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ContactEmailp2" xml:space="preserve">
+    <value>awwiq@ymail.com</value>
+  </data>
+  <data name="ContactEmailp3" xml:space="preserve">
+    <value> www.awwiq.com</value>
+  </data>
+  <data name="Contactformdetails" xml:space="preserve">
+    <value>التفاصيل</value>
+  </data>
+  <data name="Contactformemail" xml:space="preserve">
+    <value>youremail@email.com</value>
+  </data>
+  <data name="Contactformh" xml:space="preserve">
+    <value>ابقى على تواصل معنا</value>
+  </data>
+  <data name="Contactformname" xml:space="preserve">
+    <value>ادخل اسمك</value>
+  </data>
+  <data name="Contactformsend" xml:space="preserve">
+    <value>ارسل</value>
+  </data>
+  <data name="Contactformsubject" xml:space="preserve">
+    <value>الموضوع</value>
+  </data>
+  <data name="ContactPhoneh" xml:space="preserve">
+    <value>تليفون</value>
+  </data>
+  <data name="ContactPhonep1" xml:space="preserve">
+    <value>تليفون</value>
+  </data>
+  <data name="ContactPhonep2" xml:space="preserve">
+    <value>97165570171</value>
+  </data>
+  <data name="ContactPhonep3" xml:space="preserve">
+    <value>فاكس +97165570171 </value>
+  </data>
+  <data name="ContactUsModalemail" xml:space="preserve">
+    <value>البريد الالكترونى</value>
+  </data>
+  <data name="ContactUsModalh" xml:space="preserve">
+    <value>اتصل بنا </value>
+  </data>
+  <data name="ContactUsModalMessage" xml:space="preserve">
+    <value>الرساله</value>
+  </data>
+  <data name="ContactUsModalSend" xml:space="preserve">
+    <value>ارسل</value>
+  </data>
+  <data name="ContactUsModalSubject" xml:space="preserve">
+    <value>الموضوع</value>
+  </data>
+  <data name="Contactuspageh1" xml:space="preserve">
+    <value>اتصل </value>
+  </data>
+  <data name="Contactuspageh2" xml:space="preserve">
+    <value>بنا</value>
+  </data>
+  <data name="Facts1" xml:space="preserve">
+    <value>مشروع اكتمل</value>
+  </data>
+  <data name="Facts2" xml:space="preserve">
+    <value>عميل تعاونا معهم</value>
+  </data>
+  <data name="Facts3" xml:space="preserve">
+    <value>كأس قهوه</value>
+  </data>
+  <data name="Facts4" xml:space="preserve">
+    <value>سؤال تم الاجابه عليهم</value>
+  </data>
+  <data name="Footerblockh1" xml:space="preserve">
+    <value>لديك</value>
+  </data>
+  <data name="Footerblockh2" xml:space="preserve">
+    <value>سؤال ؟</value>
+  </data>
+  <data name="Footerblocklink" xml:space="preserve">
+    <value>اتصل بنا</value>
+  </data>
+  <data name="Labelh1" xml:space="preserve">
+    <value>مل</value>
+  </data>
+  <data name="Labelh2" xml:space="preserve">
+    <value>صق</value>
+  </data>
+  <data name="Labelh21" xml:space="preserve">
+    <value>مناديل مخصوصه مبلله </value>
+  </data>
+  <data name="Labelh22" xml:space="preserve">
+    <value>وجافه</value>
+  </data>
+  <data name="Labelp1" xml:space="preserve">
+    <value>علب مناديل مطبوعه مناديل الورق جيب ، والمناشف المنعشة والمناديل المبللة المطبوعة مع الشعار الخاص بك أو التصميم</value>
+  </data>
+  <data name="Labelp2" xml:space="preserve">
+    <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
+تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك  مع احدث ماكينات الطباعه نضمن لك التسليم فى الوقت المناسب يمكنك الاعتماد علينا</value>
+  </data>
+  <data name="Labelsection2h1" xml:space="preserve">
+    <value>علب مناديل </value>
+  </data>
+  <data name="Labelsection2h2" xml:space="preserve">
+    <value>دعائيه</value>
+  </data>
+  <data name="Labelsection2p" xml:space="preserve">
+    <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
+تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك   </value>
+  </data>
+  <data name="News1h" xml:space="preserve">
+    <value>منتج جديد</value>
+  </data>
+  <data name="News1p" xml:space="preserve">
+    <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
+تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك  مع احدث ماكينات الطباعه نضمن لك التسليم فى الوقت المناسب يمكنك الاعتماد علينا</value>
+  </data>
+  <data name="News2h" xml:space="preserve">
+    <value>منتج جديد</value>
+  </data>
+  <data name="News2p" xml:space="preserve">
+    <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
+تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك  مع احدث ماكينات الطباعه نضمن لك التسليم فى الوقت المناسب يمكنك الاعتماد علينا</value>
+  </data>
+  <data name="News3h" xml:space="preserve">
+    <value>منتج جديد</value>
+  </data>
+  <data name="News3p" xml:space="preserve">
+    <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
+تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك  مع احدث ماكينات الطباعه نضمن لك التسليم فى الوقت المناسب يمكنك الاعتماد علينا</value>
+  </data>
+  <data name="Newsh1" xml:space="preserve">
+    <value>أحدث الأخبار</value>
+  </data>
+  <data name="Newsh2" xml:space="preserve">
+    <value>
+والتحديثات</value>
+  </data>
+  <data name="Ourmissionh1" xml:space="preserve">
+    <value>مهم</value>
+  </data>
+  <data name="Ourmissionh2" xml:space="preserve">
+    <value>تنا</value>
+  </data>
+  <data name="Ourmissionp" xml:space="preserve">
+    <value>لعربيه للمناديل المبلله تدرك الحاجه فى الوقت الحاضر ونسعى جاهدين لارضاء تطلعات المستهلكين لمنتجات اقتصاديه وعمليه</value>
+  </data>
+  <data name="Ourproductsh" xml:space="preserve">
+    <value>منتجاتنا</value>
+  </data>
+  <data name="OurVisionh1" xml:space="preserve">
+    <value>رؤيت</value>
+  </data>
+  <data name="OurVisionh2" xml:space="preserve">
+    <value>نا</value>
+  </data>
+  <data name="OurVisionp" xml:space="preserve">
+    <value>يشمل هذا بشكل أساسي مزيل المكياج ، معقم يد النسائي ، مناديل مبللة من النكهات المختلفة ، مناشف منعشة ومناديل المطعم في شكل البيع بالتجزئة والجملة وبتصميم حسب الطلب والتصميم يلبي رغبات العميل ويطلب منه مقاربة إبداعية نحو الابتكار والمفاهيم الرائدة .</value>
+  </data>
+  <data name="Testimonial1h1" xml:space="preserve">
+    <value>نحن </value>
+  </data>
+  <data name="Testimonial1h2" xml:space="preserve">
+    <value>العربيه للمناديل المبلله</value>
+  </data>
+  <data name="Testimonial1p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+  </data>
+  <data name="Testimonial2h1" xml:space="preserve">
+    <value>نحن </value>
+  </data>
+  <data name="Testimonial2h2" xml:space="preserve">
+    <value>الرواد</value>
+  </data>
+  <data name="Testimonial2p" xml:space="preserve">
+    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
   </data>
 </root>
