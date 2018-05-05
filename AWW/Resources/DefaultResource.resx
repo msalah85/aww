@@ -117,11 +117,65 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Aboutblockh1" xml:space="preserve">
+    <value>We are the</value>
+  </data>
+  <data name="Aboutblockh2" xml:space="preserve">
+    <value>leaders</value>
+  </data>
+  <data name="AboutHeader1" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="AboutHeader2" xml:space="preserve">
+    <value>Arabian Wet Wipes</value>
+  </data>
   <data name="AboutUslabel" xml:space="preserve">
     <value>AboutUs</value>
   </data>
   <data name="ContactUslabel" xml:space="preserve">
     <value>ContactUs</value>
+  </data>
+  <data name="FeaturesblockInsightsh6" xml:space="preserve">
+    <value>Insights</value>
+  </data>
+  <data name="FeaturesblockInsightsp" xml:space="preserve">
+    <value>With intelligence.</value>
+  </data>
+  <data name="FeaturesblockInspirationh6" xml:space="preserve">
+    <value>Inspiration</value>
+  </data>
+  <data name="FeaturesblockInspirationp" xml:space="preserve">
+    <value>In action.</value>
+  </data>
+  <data name="FeaturesblockProductsh6" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="FeaturesblockProductsp" xml:space="preserve">
+    <value>In perfection.</value>
+  </data>
+  <data name="FeaturesblockServicesh6" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="FeaturesblockServicesp" xml:space="preserve">
+    <value>With flexibility.</value>
+  </data>
+  <data name="FooterAboutUslabel" xml:space="preserve">
+    <value>AboutUs</value>
+  </data>
+  <data name="FooterContactUslabel" xml:space="preserve">
+    <value>ContactUs</value>
+  </data>
+  <data name="FooterHomelabel" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="FooterLabellabel" xml:space="preserve">
+    <value>Label</value>
+  </data>
+  <data name="FooterNewslabel" xml:space="preserve">
+    <value>News</value>
+  </data>
+  <data name="FooterProductslabel" xml:space="preserve">
+    <value>Products</value>
   </data>
   <data name="Homelabel" xml:space="preserve">
     <value>Home</value>
@@ -134,5 +188,299 @@
   </data>
   <data name="Productslabel" xml:space="preserve">
     <value>Products</value>
+  </data>
+  <data name="SliderNextbtn" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="SliderPervbtn" xml:space="preserve">
+    <value>Prev</value>
+  </data>
+  <data name="Aboutblockp" xml:space="preserve">
+    <value>AWW is the fastest growing manufacturer and exporter of globalize competitive wet wipes products. Our product range from personal care, household, institutional and industrial wet wipes applications. AWW is the exporter of wet wipes and private labels to Kuwait and Saudi Arabia. Our products were solely manufactured in SAIF – Zone and locally monopolized the distribution of wet wipes products in the entire U. A. E.</value>
+  </data>
+  <data name="Aboutfacts1" xml:space="preserve">
+    <value>Clients</value>
+  </data>
+  <data name="Aboutfacts2" xml:space="preserve">
+    <value>Members</value>
+  </data>
+  <data name="Aboutfacts3" xml:space="preserve">
+    <value>Awards</value>
+  </data>
+  <data name="Aroundblockh" xml:space="preserve">
+    <value>As an online printing company, we can assist you with advice, info and knowledge - Around The Pressure.</value>
+  </data>
+  <data name="Aroundblockp" xml:space="preserve">
+    <value>Visit us . Inspiration for your ideas are plenty.</value>
+  </data>
+  <data name="EmailPlaceholder" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="Ideablockh" xml:space="preserve">
+    <value>Unleash your ideas. We'll help you</value>
+  </data>
+  <data name="Ideablockp" xml:space="preserve">
+    <value>Through simplicity and flexibility of our services can be reached quickly and easily to your pressure.</value>
+  </data>
+  <data name="OURWORKh1" xml:space="preserve">
+    <value>Our</value>
+  </data>
+  <data name="OURWORKh2" xml:space="preserve">
+    <value>Work</value>
+  </data>
+  <data name="Quotationdtlh1" xml:space="preserve">
+    <value>Request a</value>
+  </data>
+  <data name="Quotationdtlh2" xml:space="preserve">
+    <value>quotation</value>
+  </data>
+  <data name="Service1h1" xml:space="preserve">
+    <value>3D print</value>
+  </data>
+  <data name="Service1h2" xml:space="preserve">
+    <value>service</value>
+  </data>
+  <data name="Service1p" xml:space="preserve">
+    <value>Over the past 9 years Arabian Wet Wipes's 3D department has established a leading position in providing professional 3D print services. Supplying equipment from 3D Systems and software from Materialise we have specialised our expertise in these products and backed it up through our internationally renowned 3D bureau service. Our 3D clients include top international Architectural.</value>
+  </data>
+  <data name="Service2h1" xml:space="preserve">
+    <value>Digital </value>
+  </data>
+  <data name="Service2h2" xml:space="preserve">
+    <value>print</value>
+  </data>
+  <data name="Service2p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans.</value>
+  </data>
+  <data name="Service3h1" xml:space="preserve">
+    <value>Leaflets</value>
+  </data>
+  <data name="Service3h2" xml:space="preserve">
+    <value>print</value>
+  </data>
+  <data name="Service3p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans.</value>
+  </data>
+  <data name="Service4h1" xml:space="preserve">
+    <value>Stationery</value>
+  </data>
+  <data name="Service4h2" xml:space="preserve">
+    <value>print</value>
+  </data>
+  <data name="Service4p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans.</value>
+  </data>
+  <data name="Service5h1" xml:space="preserve">
+    <value>Brochure</value>
+  </data>
+  <data name="Service5h2" xml:space="preserve">
+    <value>print</value>
+  </data>
+  <data name="Service5p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans.</value>
+  </data>
+  <data name="Service6h1" xml:space="preserve">
+    <value>Large</value>
+  </data>
+  <data name="Service6h2" xml:space="preserve">
+    <value>print</value>
+  </data>
+  <data name="Service6p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, eu pri detraxit indoctum. Epicurei perfecto periculis in qui, sed eu persius ornatus, et malorum sensibus philosophia pri. Et usu dicam aeterno honestatis. Vel dicam petentium vituperata an, omnis posse legimus sea te. Vis ut reque facer. Vidit detraxit democritum ut nec, ut mea evertitur temporibus. Cum cu labitur senserit, ex eos appetere reformidans.</value>
+  </data>
+  <data name="Servicesh1" xml:space="preserve">
+    <value>Our</value>
+  </data>
+  <data name="Servicesh2" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="Subscribebtn" xml:space="preserve">
+    <value>Subscribe</value>
+  </data>
+  <data name="ContactAddressh" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="ContactAddressp1" xml:space="preserve">
+    <value>P.O. Box: 8480 - SAIF ZONE</value>
+  </data>
+  <data name="ContactAddressp2" xml:space="preserve">
+    <value>Sharjah - U A E</value>
+  </data>
+  <data name="Contactdetailsh" xml:space="preserve">
+    <value>Contact-details</value>
+  </data>
+  <data name="ContactEmailh" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="ContactEmailp1" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="ContactEmailp2" xml:space="preserve">
+    <value>awwiq@ymail.com</value>
+  </data>
+  <data name="ContactEmailp3" xml:space="preserve">
+    <value>Web: www.awwiq.com</value>
+  </data>
+  <data name="Contactformdetails" xml:space="preserve">
+    <value>details</value>
+  </data>
+  <data name="Contactformemail" xml:space="preserve">
+    <value>youremail@email.com</value>
+  </data>
+  <data name="Contactformh" xml:space="preserve">
+    <value>Get in touch</value>
+  </data>
+  <data name="Contactformname" xml:space="preserve">
+    <value>Enter your name...</value>
+  </data>
+  <data name="Contactformsend" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="Contactformsubject" xml:space="preserve">
+    <value>Subject (Optional)</value>
+  </data>
+  <data name="ContactPhoneh" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="ContactPhonep1" xml:space="preserve">
+    <value>Phone:</value>
+  </data>
+  <data name="ContactPhonep2" xml:space="preserve">
+    <value>+971 6 5570171</value>
+  </data>
+  <data name="ContactPhonep3" xml:space="preserve">
+    <value>Fax: +971 6 5570171</value>
+  </data>
+  <data name="ContactUsModalemail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="ContactUsModalh" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="ContactUsModalMessage" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="ContactUsModalSend" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="ContactUsModalSubject" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="Contactuspageh1" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Contactuspageh2" xml:space="preserve">
+    <value>Us</value>
+  </data>
+  <data name="Facts1" xml:space="preserve">
+    <value>Project Complete</value>
+  </data>
+  <data name="Facts2" xml:space="preserve">
+    <value>Client Worked With</value>
+  </data>
+  <data name="Facts3" xml:space="preserve">
+    <value>Cups of Coffee</value>
+  </data>
+  <data name="Facts4" xml:space="preserve">
+    <value>Answered Questions</value>
+  </data>
+  <data name="Footerblockh1" xml:space="preserve">
+    <value>Have a</value>
+  </data>
+  <data name="Footerblockh2" xml:space="preserve">
+    <value>question ?</value>
+  </data>
+  <data name="Footerblocklink" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="Labelh1" xml:space="preserve">
+    <value>LA</value>
+  </data>
+  <data name="Labelh2" xml:space="preserve">
+    <value>BEL</value>
+  </data>
+  <data name="Labelh21" xml:space="preserve">
+    <value>PERSONALISED WET</value>
+  </data>
+  <data name="Labelh22" xml:space="preserve">
+    <value>AND DRY TISSUES</value>
+  </data>
+  <data name="Labelp1" xml:space="preserve">
+    <value>Custom printed tissue boxes, pocket paper handkerchiefs, refreshing towels &amp; wet wipes printed with your own logo or design</value>
+  </data>
+  <data name="Labelp2" xml:space="preserve">
+    <value>As advertising poster in a pocket size format or your logo long lasting on everyone's desktop. With tisssue products from AWWIQ you have found an optimal concept for the support of your marketing and sales activities. The most up-to-date printing plants and a trouble free just in time logistics make sure that an order goes off smoothly - even if it gets hectic. You can rely on us.</value>
+  </data>
+  <data name="Labelsection2h1" xml:space="preserve">
+    <value>Promotional</value>
+  </data>
+  <data name="Labelsection2h2" xml:space="preserve">
+    <value>Tissue   Boxes</value>
+  </data>
+  <data name="Labelsection2p" xml:space="preserve">
+    <value>As advertising poster in a pocket size format or your logo long lasting on everyone's desktop. With tisssue products fromAWWIQ you have found an optimal concept for the support of your marketing and sales activities.</value>
+  </data>
+  <data name="News1h" xml:space="preserve">
+    <value>A New Product</value>
+  </data>
+  <data name="News1p" xml:space="preserve">
+    <value>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</value>
+  </data>
+  <data name="News2h" xml:space="preserve">
+    <value>A New Product</value>
+  </data>
+  <data name="News2p" xml:space="preserve">
+    <value>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</value>
+  </data>
+  <data name="News3h" xml:space="preserve">
+    <value>A New Product</value>
+  </data>
+  <data name="News3p" xml:space="preserve">
+    <value>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</value>
+  </data>
+  <data name="Newsh1" xml:space="preserve">
+    <value>LATEST NEWS</value>
+  </data>
+  <data name="Newsh2" xml:space="preserve">
+    <value>&amp; UPDATES</value>
+  </data>
+  <data name="Ourmissionh1" xml:space="preserve">
+    <value>OUR </value>
+  </data>
+  <data name="Ourmissionh2" xml:space="preserve">
+    <value>MISSION</value>
+  </data>
+  <data name="Ourmissionp" xml:space="preserve">
+    <value>AWW understand of nowadays need and strive much to gratify consumers of crushy and economical products.</value>
+  </data>
+  <data name="Ourproductsh" xml:space="preserve">
+    <value>Our Products</value>
+  </data>
+  <data name="OurVisionh1" xml:space="preserve">
+    <value>Our</value>
+  </data>
+  <data name="OurVisionh2" xml:space="preserve">
+    <value>Vision</value>
+  </data>
+  <data name="OurVisionp" xml:space="preserve">
+    <value>This mainly include make-up remover, feminine wipe hand sanitizer, wet wipes of different flavours, refreshing towels and restaurant wipes in the form of retail and wholesale and with customized label and design satisfying client interest and requirment with creative approach towards innovation and leading concepts.</value>
+  </data>
+  <data name="Testimonial1h1" xml:space="preserve">
+    <value>We are the</value>
+  </data>
+  <data name="Testimonial1h2" xml:space="preserve">
+    <value>A W W</value>
+  </data>
+  <data name="Testimonial1p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, his ei tota contentiones, vel ad novum eripuit singulis, mea gloriatur forensibus id. Te eum harum definiebas, ut vis eros utinam, cu dicam lucilius forensibus nec. Te saepe noster his. Agam scripserit dissentiet ne sit, eum ad tation perpetua, at est viris minimum. Per ex animal bonorum, vis in eleifend vituperata. Mollis eirmod ne pri, in mei brute scriptorem. Ex harum honestatis pri. Duo te nemore feugait senserit. An sed esse laoreet hendrerit</value>
+  </data>
+  <data name="Testimonial2h1" xml:space="preserve">
+    <value>We are the</value>
+  </data>
+  <data name="Testimonial2h2" xml:space="preserve">
+    <value>leaders</value>
+  </data>
+  <data name="Testimonial2p" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, his ei tota contentiones, vel ad novum eripuit singulis, mea gloriatur forensibus id. Te eum harum definiebas, ut vis eros utinam, cu dicam lucilius forensibus nec. Te saepe noster his. Agam scripserit dissentiet ne sit, eum ad tation perpetua, at est viris minimum. Per ex animal bonorum, vis in eleifend vituperata. Mollis eirmod ne pri, in mei brute scriptorem. Ex harum honestatis pri. Duo te nemore feugait senserit. An sed esse laoreet hendrerit</value>
   </data>
 </root>

@@ -168,13 +168,16 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\css\cssrtl\bootstrap-rtl.css" />
     <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\cssrtl\bootstrap-rtl.css" />
+    <Content Include="Content\css\cssrtl\style-rtl.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\lightbox.css" />
     <Content Include="Content\css\owl.carousel.css" />
-    <Content Include="Content\css\cssrtl\style-rtl.css" />
     <Content Include="Content\css\style.css" />
+    <Content Include="Content\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\images\about-image-1.jpg" />
     <Content Include="Content\images\about-image.png" />
     <Content Include="Content\images\about-slider-01.jpg" />
@@ -269,7 +272,17 @@
     <Content Include="Content\images\products\product-04-thumb.png" />
     <Content Include="Content\images\products\product-1.png" />
     <Content Include="Content\images\products\product-10.png" />
+    <Content Include="Content\images\products\product-11.png" />
+    <Content Include="Content\images\products\product-12.png" />
+    <Content Include="Content\images\products\product-13.png" />
+    <Content Include="Content\images\products\product-14.png" />
+    <Content Include="Content\images\products\product-15.png" />
+    <Content Include="Content\images\products\product-16.png" />
+    <Content Include="Content\images\products\product-17.png" />
+    <Content Include="Content\images\products\product-18.png" />
+    <Content Include="Content\images\products\product-19.png" />
     <Content Include="Content\images\products\product-2.png" />
+    <Content Include="Content\images\products\product-20.png" />
     <Content Include="Content\images\products\product-3.png" />
     <Content Include="Content\images\products\product-4.png" />
     <Content Include="Content\images\products\product-5.png" />
@@ -356,9 +369,6 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\fonts\fontawesome-webfont.ttf" />
-    <Content Include="Content\fonts\fontawesome-webfont.woff" />
-    <Content Include="Content\fonts\fontawesome-webfont.woff2" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
