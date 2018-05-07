@@ -79,7 +79,7 @@ namespace AWW.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AWW is the fastest growing manufacturer and exporter of globalize competitive wet wipes products. Our product range from personal care, household, institutional and industrial wet wipes applications. AWW is the exporter of wet wipes and private labels to Kuwait and Saudi Arabia. Our products were solely manufactured in SAIF – Zone and locally monopolized the distribution of wet wipes products in the entire U. A. E..
+        ///   Looks up a localized string similar to Our aim is to develop and develop the best products that contribute to the daily human needs. Therefore, we in Arabia for wet wipes are keen to provide the best products that contribute to meet these needs .. Arab Wet Wipes is specialized in the first class in the manufacture of wet tissues, offering daily consumer goods interested in health care, hygiene and cosmetics of high quality through our experience in this The field and the product are the best proof of this in pure lacquering..
         /// </summary>
         public static string Aboutblockp {
             get {
@@ -808,7 +808,7 @@ namespace AWW.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AWW understand of nowadays need and strive much to gratify consumers of crushy and economical products..
+        ///   Looks up a localized string similar to To understand the need for personal care, hygiene &amp; cosmetic products within our niche markets and provide quick &amp; easy solutions which can best satisfy our customers, as we follow international best practices..
         /// </summary>
         public static string Ourmissionp {
             get {
@@ -844,11 +844,119 @@ namespace AWW.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This mainly include make-up remover, feminine wipe hand sanitizer, wet wipes of different flavours, refreshing towels and restaurant wipes in the form of retail and wholesale and with customized label and design satisfying client interest and requirment with creative approach towards innovation and leading concepts..
+        ///   Looks up a localized string similar to To become a renowned industry leader and manufacturer for personal care, hygiene &amp; cosmetic products of regional and international stature..
         /// </summary>
         public static string OurVisionp {
             get {
                 return ResourceManager.GetString("OurVisionp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string OurWork1h {
+            get {
+                return ResourceManager.GetString("OurWork1h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string OurWork1p {
+            get {
+                return ResourceManager.GetString("OurWork1p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string OurWork2h {
+            get {
+                return ResourceManager.GetString("OurWork2h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For Children.
+        /// </summary>
+        public static string OurWork2p {
+            get {
+                return ResourceManager.GetString("OurWork2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string OurWork3h {
+            get {
+                return ResourceManager.GetString("OurWork3h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string OurWork3p {
+            get {
+                return ResourceManager.GetString("OurWork3p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed Wet Wipes.
+        /// </summary>
+        public static string OurWork4h {
+            get {
+                return ResourceManager.GetString("OurWork4h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string OurWork4p {
+            get {
+                return ResourceManager.GetString("OurWork4p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string OurWork5h {
+            get {
+                return ResourceManager.GetString("OurWork5h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string OurWork5p {
+            get {
+                return ResourceManager.GetString("OurWork5p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string OurWork6h {
+            get {
+                return ResourceManager.GetString("OurWork6h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For cafe.
+        /// </summary>
+        public static string OurWork6p {
+            get {
+                return ResourceManager.GetString("OurWork6p", resourceCulture);
             }
         }
         
@@ -867,6 +975,366 @@ namespace AWW.Resources {
         public static string OURWORKh2 {
             get {
                 return ResourceManager.GetString("OURWORKh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product10h {
+            get {
+                return ResourceManager.GetString("Product10h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For Car.
+        /// </summary>
+        public static string Product10p {
+            get {
+                return ResourceManager.GetString("Product10p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product11h {
+            get {
+                return ResourceManager.GetString("Product11h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For personal use.
+        /// </summary>
+        public static string Product11p {
+            get {
+                return ResourceManager.GetString("Product11p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed Wet Wipes.
+        /// </summary>
+        public static string Product12h {
+            get {
+                return ResourceManager.GetString("Product12h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For personal use.
+        /// </summary>
+        public static string Product12p {
+            get {
+                return ResourceManager.GetString("Product12p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product13h {
+            get {
+                return ResourceManager.GetString("Product13h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kandora Care.
+        /// </summary>
+        public static string Product13p {
+            get {
+                return ResourceManager.GetString("Product13p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product14h {
+            get {
+                return ResourceManager.GetString("Product14h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product14p {
+            get {
+                return ResourceManager.GetString("Product14p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product15h {
+            get {
+                return ResourceManager.GetString("Product15h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product15p {
+            get {
+                return ResourceManager.GetString("Product15p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed Wet Wipes.
+        /// </summary>
+        public static string Product16h {
+            get {
+                return ResourceManager.GetString("Product16h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For cafe.
+        /// </summary>
+        public static string Product16p {
+            get {
+                return ResourceManager.GetString("Product16p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product17h {
+            get {
+                return ResourceManager.GetString("Product17h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For cafe.
+        /// </summary>
+        public static string Product17p {
+            get {
+                return ResourceManager.GetString("Product17p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed Wet Wipes.
+        /// </summary>
+        public static string Product18h {
+            get {
+                return ResourceManager.GetString("Product18h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For personal use.
+        /// </summary>
+        public static string Product18p {
+            get {
+                return ResourceManager.GetString("Product18p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed  refreshing.
+        /// </summary>
+        public static string Product19h {
+            get {
+                return ResourceManager.GetString("Product19h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product19p {
+            get {
+                return ResourceManager.GetString("Product19p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product1h {
+            get {
+                return ResourceManager.GetString("Product1h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For cafe.
+        /// </summary>
+        public static string Product1p {
+            get {
+                return ResourceManager.GetString("Product1p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product20h {
+            get {
+                return ResourceManager.GetString("Product20h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product20p {
+            get {
+                return ResourceManager.GetString("Product20p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Perfumed Wet Wipes.
+        /// </summary>
+        public static string Product2h {
+            get {
+                return ResourceManager.GetString("Product2h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product2p {
+            get {
+                return ResourceManager.GetString("Product2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product3h {
+            get {
+                return ResourceManager.GetString("Product3h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For Children.
+        /// </summary>
+        public static string Product3p {
+            get {
+                return ResourceManager.GetString("Product3p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product4h {
+            get {
+                return ResourceManager.GetString("Product4h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product4p {
+            get {
+                return ResourceManager.GetString("Product4p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product5h {
+            get {
+                return ResourceManager.GetString("Product5h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product5p {
+            get {
+                return ResourceManager.GetString("Product5p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product6h {
+            get {
+                return ResourceManager.GetString("Product6h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product6p {
+            get {
+                return ResourceManager.GetString("Product6p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product7h {
+            get {
+                return ResourceManager.GetString("Product7h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product7p {
+            get {
+                return ResourceManager.GetString("Product7p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product8h {
+            get {
+                return ResourceManager.GetString("Product8h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For cafe.
+        /// </summary>
+        public static string Product8p {
+            get {
+                return ResourceManager.GetString("Product8p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet Wipes.
+        /// </summary>
+        public static string Product9h {
+            get {
+                return ResourceManager.GetString("Product9h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For restaurants.
+        /// </summary>
+        public static string Product9p {
+            get {
+                return ResourceManager.GetString("Product9p", resourceCulture);
             }
         }
         

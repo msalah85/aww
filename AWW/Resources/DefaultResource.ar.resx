@@ -127,7 +127,7 @@
     <value>عن</value>
   </data>
   <data name="AboutHeader2" xml:space="preserve">
-    <value>اربيان ويت وايبس</value>
+    <value>العربيه للمناديل المبللة</value>
   </data>
   <data name="AboutUslabel" xml:space="preserve">
     <value>عن الشركه</value>
@@ -196,9 +196,8 @@
     <value>السابق</value>
   </data>
   <data name="Aboutblockp" xml:space="preserve">
-    <value>العربيه للمناديل المبلله هى المصنع والمصدر الاسرع نموا لمنتجات المناديل المبلله مجموعة منتجاتنا من العنايه الشخصيه والمنزليه 
-نحن المصدر للمناديل المبلله والملصقات الخاصه الى الكويت والمملكه العربيه السعوديه تم تصنيع منتجاتنا فقط فى منطقة سيف  
-  ومحليا الموزع لكل منتجات المناديل المبلله فى الامارات</value>
+    <value>هدفنا الرقي و التطور في تقديم أفضل المنتجات التي تساهم في خدمة الاحتياجات البشرية اليومية. لذا فنحن في  العربيه للمناديل المبللة نحرص على تقديم أفضل المنتجات التي تساهم في تلبية هذه الإحتياجات..
+العربيه للمناديل المبلله متخصصة في الدرجة الأولى في صناعة المناديل المبللة حيث تقدم سلع استهلاكية يومية مهتمة بالرعاية الصحية والنظافة الشخصية ومواد التجميل ذات جودة عالية من خلال خبرتنا في هذه المجال والمنتج خير دليل على ذلك في تألقة النقي.</value>
   </data>
   <data name="Aboutfacts1" xml:space="preserve">
     <value>
@@ -460,7 +459,7 @@
     <value>تنا</value>
   </data>
   <data name="Ourmissionp" xml:space="preserve">
-    <value>لعربيه للمناديل المبلله تدرك الحاجه فى الوقت الحاضر ونسعى جاهدين لارضاء تطلعات المستهلكين لمنتجات اقتصاديه وعمليه</value>
+    <value>تلبية حاجة الاسواق من المنتجات المهتمه بالعنايه و النظافة الشخصية و الرعاية الصحية وتوفيرها على ان تكون عالية الجودة واسعار مناسبة تنافسية .</value>
   </data>
   <data name="Ourproductsh" xml:space="preserve">
     <value>منتجاتنا</value>
@@ -472,7 +471,7 @@
     <value>نا</value>
   </data>
   <data name="OurVisionp" xml:space="preserve">
-    <value>يشمل هذا بشكل أساسي مزيل المكياج ، معقم يد النسائي ، مناديل مبللة من النكهات المختلفة ، مناشف منعشة ومناديل المطعم في شكل البيع بالتجزئة والجملة وبتصميم حسب الطلب والتصميم يلبي رغبات العميل ويطلب منه مقاربة إبداعية نحو الابتكار والمفاهيم الرائدة .</value>
+    <value>ان تصبح الشركة من الشركات الرائدة في مجال صناعة منتجات العناية والنظافة الشخصية و الرعاية الصحية وذات مكانه أقليمية و دولية .</value>
   </data>
   <data name="Testimonial1h1" xml:space="preserve">
     <value>نحن </value>
@@ -481,7 +480,8 @@
     <value>العربيه للمناديل المبلله</value>
   </data>
   <data name="Testimonial1p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>هدفنا الرقي و التطور في تقديم أفضل المنتجات التي تساهم في خدمة الاحتياجات البشرية اليومية. لذا فنحن في  العربيه للمناديل المبللة نحرص على تقديم أفضل المنتجات التي تساهم في تلبية هذه الإحتياجات..
+العربيه للمناديل المبلله متخصصة في الدرجة الأولى في صناعة المناديل المبللة حيث تقدم سلع استهلاكية يومية مهتمة بالرعاية الصحية والنظافة الشخصية ومواد التجميل ذات جودة عالية من خلال خبرتنا في هذه المجال والمنتج خير دليل على ذلك في تألقة النقي.</value>
   </data>
   <data name="Testimonial2h1" xml:space="preserve">
     <value>نحن </value>
@@ -490,6 +490,163 @@
     <value>الرواد</value>
   </data>
   <data name="Testimonial2p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>هدفنا الرقي و التطور في تقديم أفضل المنتجات التي تساهم في خدمة الاحتياجات البشرية اليومية. لذا فنحن في  العربيه للمناديل المبللة نحرص على تقديم أفضل المنتجات التي تساهم في تلبية هذه الإحتياجات..
+العربيه للمناديل المبلله متخصصة في الدرجة الأولى في صناعة المناديل المبللة حيث تقدم سلع استهلاكية يومية مهتمة بالرعاية الصحية والنظافة الشخصية ومواد التجميل ذات جودة عالية من خلال خبرتنا في هذه المجال والمنتج خير دليل على ذلك في تألقة النقي.</value>
+  </data>
+  <data name="OurWork1h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="OurWork1p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="OurWork2h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="OurWork2p" xml:space="preserve">
+    <value>للاطفال</value>
+  </data>
+  <data name="OurWork3h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="OurWork3p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="OurWork4h" xml:space="preserve">
+    <value>مناديل مبلله معطره</value>
+  </data>
+  <data name="OurWork4p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="OurWork5h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="OurWork5p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="OurWork6h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="OurWork6p" xml:space="preserve">
+    <value>للمقهى</value>
+  </data>
+  <data name="Product10h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product10p" xml:space="preserve">
+    <value>للسياره</value>
+  </data>
+  <data name="Product11h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product11p" xml:space="preserve">
+    <value>للاستخدام الشخصى</value>
+  </data>
+  <data name="Product12h" xml:space="preserve">
+    <value>مناديل مبلله معطره</value>
+  </data>
+  <data name="Product12p" xml:space="preserve">
+    <value>للاستخدام الشخصى</value>
+  </data>
+  <data name="Product13h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product13p" xml:space="preserve">
+    <value>للعنايه بالكندوره</value>
+  </data>
+  <data name="Product14h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product14p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product15h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product15p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product16h" xml:space="preserve">
+    <value>مناديل مبلله معطره</value>
+  </data>
+  <data name="Product16p" xml:space="preserve">
+    <value>للمقهى</value>
+  </data>
+  <data name="Product17h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product17p" xml:space="preserve">
+    <value>للمقهى</value>
+  </data>
+  <data name="Product18h" xml:space="preserve">
+    <value>مناديل مبلله معطره</value>
+  </data>
+  <data name="Product18p" xml:space="preserve">
+    <value>للاستخدام الشخصى</value>
+  </data>
+  <data name="Product19h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product19p" xml:space="preserve">
+    <value>معطره ومنعشه</value>
+  </data>
+  <data name="Product1h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product1p" xml:space="preserve">
+    <value>للمقهى</value>
+  </data>
+  <data name="Product20h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product20p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product2h" xml:space="preserve">
+    <value>مناديل مبلله معطره</value>
+  </data>
+  <data name="Product2p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product3h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product3p" xml:space="preserve">
+    <value>للاطفال</value>
+  </data>
+  <data name="Product4h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product4p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product5h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product5p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product6h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product6p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product7h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product7p" xml:space="preserve">
+    <value>للمطاعم</value>
+  </data>
+  <data name="Product8h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product8p" xml:space="preserve">
+    <value>للمقهى</value>
+  </data>
+  <data name="Product9h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product9p" xml:space="preserve">
+    <value>للمطاعم</value>
   </data>
 </root>
