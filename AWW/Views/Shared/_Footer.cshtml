@@ -2,13 +2,11 @@
     var culture = System.Threading.Thread.CurrentThread.CurrentUICulture.Name.ToLowerInvariant();
 }
 
-
-<!-- footer -->
 <div id="footer-section" class="footer-main-block">
     <div class="container">
         <div class="footer-block text-center">
             <h2 class="middle-heading">@DefaultResource.Footerblockh1<span>@DefaultResource.Footerblockh2</span></h2>
-            <a href="index.html#" class="contact-btn" data-toggle="modal" data-target="#contactModal">@DefaultResource.Footerblocklink <i class="fa fa-long-arrow-right"></i></a>
+            <a href="@Url.Action("Contact", "Home")">@DefaultResource.Footerblocklink <i class="fa fa-long-arrow-left"></i></a>
             <div class="modal fade contact-modal" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModal">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -39,17 +37,15 @@
             <div class="col-md-3 col-xs-6">
                 <div class="copyright">
                     <div class="footer-logo">
-                        <img src="~/Content/images/logo-footer.png" class="img-responsive" alt="logo">
+                        <img src="~/Content/images/logo-footer.png" class="img-responsive" alt="AWW logo">
                     </div>
-                
-
                     @if (culture == "en-us")
                     {
-                        <p>Copyright © 2018 All rights reserved.</p>
+                        <span>Copyright © 2018 All rights reserved.</span>
                     }
                     else
                     {
-                        <p> حقوق النشر © 2018 كل الحقوق محفوظه. </p>
+                        <span> © جميع الحقوق محفوظه @DateTime.Now.Year.</span>
                     }
                 </div>
             </div>

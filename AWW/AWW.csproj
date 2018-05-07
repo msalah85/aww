@@ -212,6 +212,7 @@
     <Content Include="Content\images\favicon\favicon.png" />
     <Content Include="Content\images\findus.jpg" />
     <Content Include="Content\images\icons\arrow-job.png" />
+    <Content Include="Content\images\icons\curson-plus.png" />
     <Content Include="Content\images\icons\features-1.png" />
     <Content Include="Content\images\icons\features-2.png" />
     <Content Include="Content\images\icons\features-3.png" />
