@@ -178,10 +178,12 @@
                     nav: !1
                 }
             }
-        }), e(".counter").length && e(".counter").counterUp({
-            delay: 20,
-            time: 2e3
-        }), e(window).scroll(function () {
+        }),
+        //e(".counter").length && e(".counter").counterUp({
+        //    delay: 20,
+        //    time: 2e3
+        //}),
+        e(window).scroll(function () {
             e(".navbar").offset().top > 250 ? e(".navbar-fixed-top").addClass("top-nav-collapse") : e(".navbar-fixed-top").removeClass("top-nav-collapse")
         }), e(function () {
             function a() {

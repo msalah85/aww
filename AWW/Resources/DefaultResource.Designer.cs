@@ -88,6 +88,15 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string Aboutblockp2 {
+            get {
+                return ResourceManager.GetString("Aboutblockp2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Clients.
         /// </summary>
         public static string Aboutfacts1 {

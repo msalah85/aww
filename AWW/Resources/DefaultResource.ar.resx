@@ -139,25 +139,25 @@
     <value>افكار</value>
   </data>
   <data name="FeaturesblockInsightsp" xml:space="preserve">
-    <value>بذكاء</value>
+    <value>لمناديل صحية للجروح</value>
   </data>
   <data name="FeaturesblockInspirationh6" xml:space="preserve">
     <value>الهام</value>
   </data>
   <data name="FeaturesblockInspirationp" xml:space="preserve">
-    <value>فى العمل</value>
+    <value>لمناديل واقية من الشمس</value>
   </data>
   <data name="FeaturesblockProductsh6" xml:space="preserve">
-    <value>المنتجات</value>
+    <value>منتجاتنا</value>
   </data>
   <data name="FeaturesblockProductsp" xml:space="preserve">
-    <value>فى مستوى الكمال</value>
+    <value>مناديل مبللة</value>
   </data>
   <data name="FeaturesblockServicesh6" xml:space="preserve">
-    <value>خدمات</value>
+    <value>مميكنة</value>
   </data>
   <data name="FeaturesblockServicesp" xml:space="preserve">
-    <value>بمرونه</value>
+    <value>مناديل معقمة</value>
   </data>
   <data name="FooterAboutUslabel" xml:space="preserve">
     <value>عن الشركه</value>
@@ -225,10 +225,10 @@
     <value>من خلال بساطة ومرونة خدماتنا يمكن الوصول بسرعه وسهوله لتطلعاتك</value>
   </data>
   <data name="OURWORKh1" xml:space="preserve">
-    <value>اعما</value>
+    <value>بعض</value>
   </data>
   <data name="OURWORKh2" xml:space="preserve">
-    <value>لنا</value>
+    <value>اعمالنا</value>
   </data>
   <data name="Quotationdtlh1" xml:space="preserve">
     <value>أطلب</value>
@@ -375,16 +375,16 @@
     <value>بنا</value>
   </data>
   <data name="Facts1" xml:space="preserve">
-    <value>مشروع اكتمل</value>
+    <value>وفرة</value>
   </data>
   <data name="Facts2" xml:space="preserve">
-    <value>عميل تعاونا معهم</value>
+    <value>سهولة</value>
   </data>
   <data name="Facts3" xml:space="preserve">
-    <value>كأس قهوه</value>
+    <value>جودة</value>
   </data>
   <data name="Facts4" xml:space="preserve">
-    <value>سؤال تم الاجابه عليهم</value>
+    <value>مرطبة</value>
   </data>
   <data name="Footerblockh1" xml:space="preserve">
     <value>لديك</value>
@@ -487,10 +487,10 @@
     <value>نحن </value>
   </data>
   <data name="Testimonial2h2" xml:space="preserve">
-    <value>الرواد</value>
+    <value> الرواد بالعراق</value>
   </data>
   <data name="Testimonial2p" xml:space="preserve">
-    <value>هدفنا الرقي و التطور في تقديم أفضل المنتجات التي تساهم في خدمة الاحتياجات البشرية اليومية. لذا فنحن في  العربيه للمناديل المبللة نحرص على تقديم أفضل المنتجات التي تساهم في تلبية هذه الإحتياجات..
+    <value>هدفنا الرقي و التطور في تقديم أفضل المنتجات التي تساهم في خدمة احتياجات السوق العراقية. لذا فنحن في  العربيه للمناديل المبللة نحرص على تقديم أفضل المنتجات التي تساهم في تلبية هذه الإحتياجات..
 العربيه للمناديل المبلله متخصصة في الدرجة الأولى في صناعة المناديل المبللة حيث تقدم سلع استهلاكية يومية مهتمة بالرعاية الصحية والنظافة الشخصية ومواد التجميل ذات جودة عالية من خلال خبرتنا في هذه المجال والمنتج خير دليل على ذلك في تألقة النقي.</value>
   </data>
   <data name="OurWork1h" xml:space="preserve">
@@ -648,5 +648,8 @@
   </data>
   <data name="Product9p" xml:space="preserve">
     <value>للمطاعم</value>
+  </data>
+  <data name="Aboutblockp2" xml:space="preserve">
+    <value>نحن مؤمنون في قدراتنا من خلال شركة العربيه للمناديل المبللة العراقية في توفير جزء كبير من إحتياجات الاسواق للمواد المنظفة والمطهرة و المعقمة ذات الاستخدام المنزلي أو الشخصي أو في المرافق العامه وفي المستشفيات وكذلك منتجات الرعاية الصحية . لذا نسعى من خلال هذه الشركة بأن نجعل منتجاتها في متناول كل بيت او اسرة عراقية على ان تكون منتجاتها ذات جودة عالية واسعار مناسبة للجميع .</value>
   </data>
 </root>

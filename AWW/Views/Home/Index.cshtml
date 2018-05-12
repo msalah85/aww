@@ -90,29 +90,14 @@
 <div id="about" class="about-main-block mrg-btm">
     <div class="container">
         <div class="section">
-            <h3 class="section-heading">@DefaultResource.AboutHeader1 <span>@DefaultResource.AboutHeader2 </span></h3>
+            <h3 class="section-heading">@DefaultResource.AboutHeader1 <span>@DefaultResource.AboutHeader2</span></h3>
         </div>
         <div class="row">
-            <div class="col-xs-offset-1 col-sm-7 col-md-5">
+            <div class="col-sm-8 col-md-6">
                 <div class="about-block">
                     <h2 class="middle-heading">@DefaultResource.Aboutblockh1 <span>@DefaultResource.Aboutblockh2</span></h2>
+                    <p>@DefaultResource.Aboutblockp2</p>
                     <p>@DefaultResource.Aboutblockp</p>
-                </div>
-                <div class="about-facts">
-                    <div class="row">
-                        <div class="col-xs-4 col-md-5">
-                            <h2 class="counter">318</h2>
-                            <p>@DefaultResource.Aboutfacts1</p>
-                        </div>
-                        <div class="col-xs-4 col-md-5">
-                            <h2 class="counter">4021</h2>
-                            <p>@DefaultResource.Aboutfacts2</p>
-                        </div>
-                        <div class="col-xs-2 col-md-2">
-                            <h2 class="counter">28</h2>
-                            <p>@DefaultResource.Aboutfacts3</p>
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="col-md-offset-2 col-sm-4 col-md-4">
@@ -124,28 +109,38 @@
     </div>
 </div>
 <!--  end about -->
-<!--  requst a quotation -->
-<div class="requst-quotation">
+<!--  facts -->
+<div id="facts" class="facts-main-block">
     <div class="container">
         <div class="row">
-            <div class="col-sm-3">
-                <div class="quotation-img">
-                    <img src="~/Content/images/quotation-icon.png" class="img-responsive" alt="quotation">
+            <div class="col-md-3 col-sm-6">
+                <div class="facts-block text-center">
+                    <h1 class="facts-number"><i class="facts-icon fa fa-folder"></i><span class="counter">@DefaultResource.Facts1</span></h1>                    
+                    <div class="facts-bg"></div>
                 </div>
             </div>
-            <div class="col-sm-9">
-                <div class="quotation-dtl">
-                    <h2 class="middle-heading">@DefaultResource.Quotationdtlh1 <span>@DefaultResource.Quotationdtlh2</span></h2>
-
-                    <div class="quotation-form">
-                        @{Html.RenderAction("NewsletterWidget", "Common");}
-                    </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="facts-block text-center">
+                    <h1 class="facts-number"><i class="facts-icon fa fa-briefcase"></i><span class="counter">@DefaultResource.Facts2</span></h1>
+                    <div class="facts-bg"></div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="facts-block text-center">
+                    <h1 class="facts-number"><i class="facts-icon fa fa-coffee"></i><span class="counter">@DefaultResource.Facts3</span></h1>
+                    <div class="facts-bg"></div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="facts-block text-center">
+                    <h1 class="facts-number"><i class="facts-icon fa fa-commenting"></i><span class="counter">@DefaultResource.Facts4</span></h1>                    
+                    <div class="facts-bg"></div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--  end requst a quotation -->
+<!--  end facts -->
 <!--  our work -->
 <div id="work" class="work-main-block mrg-btm">
     <div class="container">
@@ -432,39 +427,29 @@
     </div>
 </div>
 <!--  end video section -->
-<!--  facts -->
-<div id="facts" class="facts-main-block">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="facts-block text-center">
-                    <h1 class="facts-number"><i class="facts-icon fa fa-folder"></i><span class="counter">165</span>K</h1>
-                    <p>@DefaultResource.Facts1</p>
-                    <div class="facts-bg"></div>
+<!--  requst a quotation -->
+@*<div class="requst-quotation">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="quotation-img">
+                        <img src="~/Content/images/quotation-icon.png" class="img-responsive" alt="quotation">
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="facts-block text-center">
-                    <h1 class="facts-number"><i class="facts-icon fa fa-briefcase"></i><span class="counter">1656</span></h1>
-                    <p>@DefaultResource.Facts2</p>
-                    <div class="facts-bg"></div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="facts-block text-center">
-                    <h1 class="facts-number"><i class="facts-icon fa fa-coffee"></i><span class="counter">1125</span></h1>
-                    <p>@DefaultResource.Facts3</p>
-                    <div class="facts-bg"></div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="facts-block text-center">
-                    <h1 class="facts-number"><i class="facts-icon fa fa-commenting"></i><span class="counter">2078</span></h1>
-                    <p>@DefaultResource.Facts4</p>
-                    <div class="facts-bg"></div>
+                <div class="col-sm-9">
+                    <div class="quotation-dtl">
+                        <h2 class="middle-heading">@DefaultResource.Quotationdtlh1 <span>@DefaultResource.Quotationdtlh2</span></h2>
+
+                        <div class="quotation-form">
+                            @{Html.RenderAction("NewsletterWidget", "Common");}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<!--  end facts -->
+    </div>*@
+<!--  end requst a quotation -->
+@section Scripts{
+    <script src="~/Scripts/particles.js"></script>
+    <script src="~/Scripts/app.js"></script>
+}

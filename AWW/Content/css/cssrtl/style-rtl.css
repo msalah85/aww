@@ -1025,9 +1025,10 @@ ul {
     background-color: #ECECEC;
     padding: 45px 0 32px
 }
-.around-pressure p {
-   font-size:16px;
-}
+
+    .around-pressure p {
+        font-size: 16px;
+    }
 
     .around-pressure p {
         font-size: 16px;
@@ -2645,4 +2646,10 @@ a.download-link {
 .carousel-control.left,
 .carousel-control.right {
     background-image: none !important;
+}
+
+@media(max-width:450px) {
+    #home-slider {
+        top: 127px;
+    }
 }

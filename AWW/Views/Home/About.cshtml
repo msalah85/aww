@@ -3,18 +3,8 @@
     ViewBag.Title = "About";
 }
 
-<!-- breadcrumb -->
-<div class="container">
-    <ol class="breadcrumb">
-
-        @*<li><a href="@Url.Action("Index", "Home")">Home</a></li>
-        <li class="active"><a href="@Url.Action("About", "Home")">About Us</a></li>*@
-    </ol>
-</div>
-<!-- end breadcrumb -->
 <!--  about -->
 <div id="about" class="about-main-block mrg-btm">
-
     <div class="container">
         <div class="section">
             <h3 class="section-heading">@DefaultResource.AboutHeader1 <span>@DefaultResource.AboutHeader2</span></h3>
@@ -27,64 +17,46 @@
                         @DefaultResource.Aboutblockp
                     </p>
                 </div>
-                <div class="about-facts">
-                    <div class="row">
-                        <div class="col-xs-4 col-md-5">
-                            <h2 class="counter">318</h2>
-                            <p>@DefaultResource.Aboutfacts1</p>
-                        </div>
-                        <div class="col-xs-4 col-md-5">
-                            <h2 class="counter">4021</h2>
-                            <p>@DefaultResource.Aboutfacts2</p>
-                        </div>
-                        <div class="col-xs-2 col-md-2">
-                            <h2 class="counter">28</h2>
-                            <p>@DefaultResource.Aboutfacts3</p>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="col-md-offset-2 col-sm-4 col-md-4">
                 <div class="about-dtl-img img-top">
                     <img src="~/Content/images/about-image.png" class="img-responsive" alt="about">
                 </div>
             </div>
-
         </div>
     </div>
-    
+    <div class="around-pressure">
+        <div class="container">
+            <div class="around-block">
+                <h3 class="block-heading">@DefaultResource.Aroundblockh</h3>
+                <p>@DefaultResource.Aroundblockp</p>
+            </div>
+        </div>
+    </div>
     <div class="container">
-        <div class="col-sm-6 col-md-12 col-xs-6">
-
-
-
-
-
-            <div class="col-sm-6 col-md-7 col-xs-12">
-
+        <div class="row">
+            <div class="col-xs-offset-1 col-sm-6 col-md-7 col-xs-12">
                 <h3 class="section-heading">@DefaultResource.Ourmissionh1 <span>@DefaultResource.Ourmissionh2</span></h3>
-
                 <p>@DefaultResource.Ourmissionp</p>
-
             </div>
             <div class="col-sm-6 col-md-4 col-xs-12 ">
                 <img src="~/Content/images/aboutus2.png" class="img-responsive" alt="about" style="margin-top:90px" />
             </div>
-
-
-
         </div>
     </div>
+    <div class="around-pressure">
         <div class="container">
-            <div class="section">
-                <h3 class="section-heading">@DefaultResource.OurVisionh1  <span>@DefaultResource.OurVisionh2</span></h3>
-                <p>@DefaultResource.OurVisionp</p>
+            <div class="around-block">
+                <h3 class="block-heading">@DefaultResource.Aroundblockh</h3>
+                <p>@DefaultResource.Aroundblockp</p>
             </div>
-
-
-
         </div>
-
-
     </div>
+    <div class="container">
+        <div class="section">
+            <h3 class="section-heading">@DefaultResource.OurVisionh1  <span>@DefaultResource.OurVisionh2</span></h3>
+            <p>@DefaultResource.OurVisionp</p>
+        </div>
+    </div>
+</div>
 <!--  end about -->
