@@ -1204,6 +1204,24 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Wet wipes.
+        /// </summary>
+        public static string Product26h {
+            get {
+                return ResourceManager.GetString("Product26h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to for advertising.
+        /// </summary>
+        public static string Product26p {
+            get {
+                return ResourceManager.GetString("Product26p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Perfumed Wet Wipes.
         /// </summary>
         public static string Product2h {
@@ -1218,6 +1236,24 @@ namespace AWW.Resources {
         public static string Product2p {
             get {
                 return ResourceManager.GetString("Product2p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wet wipes.
+        /// </summary>
+        public static string Product34h {
+            get {
+                return ResourceManager.GetString("Product34h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to For KFC.
+        /// </summary>
+        public static string Product34p {
+            get {
+                return ResourceManager.GetString("Product34p", resourceCulture);
             }
         }
         

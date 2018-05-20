@@ -642,4 +642,16 @@
   <data name="Aboutblockp2" xml:space="preserve">
     <value />
   </data>
+  <data name="Product26h" xml:space="preserve">
+    <value>Wet wipes</value>
+  </data>
+  <data name="Product26p" xml:space="preserve">
+    <value>for advertising</value>
+  </data>
+  <data name="Product34h" xml:space="preserve">
+    <value>Wet wipes</value>
+  </data>
+  <data name="Product34p" xml:space="preserve">
+    <value>For KFC</value>
+  </data>
 </root>

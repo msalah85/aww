@@ -652,4 +652,16 @@
   <data name="Aboutblockp2" xml:space="preserve">
     <value>نحن مؤمنون في قدراتنا من خلال شركة العربيه للمناديل المبللة العراقية في توفير جزء كبير من إحتياجات الاسواق للمواد المنظفة والمطهرة و المعقمة ذات الاستخدام المنزلي أو الشخصي أو في المرافق العامه وفي المستشفيات وكذلك منتجات الرعاية الصحية . لذا نسعى من خلال هذه الشركة بأن نجعل منتجاتها في متناول كل بيت او اسرة عراقية على ان تكون منتجاتها ذات جودة عالية واسعار مناسبة للجميع .</value>
   </data>
+  <data name="Product26h" xml:space="preserve">
+    <value>مناديل مبلله</value>
+  </data>
+  <data name="Product26p" xml:space="preserve">
+    <value>للتسويق والدعايه</value>
+  </data>
+  <data name="Product34h" xml:space="preserve">
+    <value>مناديل مبلله </value>
+  </data>
+  <data name="Product34p" xml:space="preserve">
+    <value>KFC</value>
+  </data>
 </root>

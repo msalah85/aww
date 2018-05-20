@@ -83,14 +83,14 @@
         }), e("#clients-slider").owlCarousel({
             rtl: true,
             loop: !0,
-            items: 6,
+            items: 30,
             dots: !1,
             nav: !1,
             autoHeight: !1,
             touchDrag: !0,
             mouseDrag: !0,
             margin: 30,
-            autoplay: !1,
+            autoplay: !0,
             slideSpeed: 300,
             navText: ["", ""],
             responsive: {
