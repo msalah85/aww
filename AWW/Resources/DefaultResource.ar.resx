@@ -121,7 +121,7 @@
     <value>نحن </value>
   </data>
   <data name="Aboutblockh2" xml:space="preserve">
-    <value>الرواد</value>
+    <value>العراقيين الرواد</value>
   </data>
   <data name="AboutHeader1" xml:space="preserve">
     <value>عن</value>
@@ -172,7 +172,7 @@
     <value>الملصقات</value>
   </data>
   <data name="FooterNewslabel" xml:space="preserve">
-    <value>الاخبار</value>
+    <value>عملائنا الكرام</value>
   </data>
   <data name="FooterProductslabel" xml:space="preserve">
     <value>المنتجات</value>
@@ -181,10 +181,10 @@
     <value>الرئيسيه</value>
   </data>
   <data name="Labellabel" xml:space="preserve">
-    <value>الملصقات</value>
+    <value>الإدارة</value>
   </data>
   <data name="Newslabel" xml:space="preserve">
-    <value>الاخبار</value>
+    <value>عملائنا الكرام</value>
   </data>
   <data name="Productslabel" xml:space="preserve">
     <value>المنتجات </value>
@@ -209,26 +209,26 @@
   <data name="Aboutfacts3" xml:space="preserve">
     <value>جوائز</value>
   </data>
-  <data name="Aroundblockh" xml:space="preserve">
-    <value>بصفتنا شركة متخصصه فى تصنيع جميع أنواع المناديل المبللة ، يمكننا مساعدتك تصميم منتجك من المناديل المبللة. - </value>
-  </data>
   <data name="Aroundblockp" xml:space="preserve">
+    <value>بصفتنا شركة متخصصه فى انتاج جميع أنواع المناديل المبللة ، يمكننا مساعدتك تصميم منتجك من المناديل المبللة.</value>
+  </data>
+  <data name="Aroundblockh" xml:space="preserve">
     <value>تفضل بزيارتنا ... إلهامنا بافكارك يعنى الكثير </value>
   </data>
   <data name="EmailPlaceholder" xml:space="preserve">
     <value>البريد الالكترونى</value>
   </data>
   <data name="Ideablockh" xml:space="preserve">
-    <value>أطلق العنان لأفكارك. سنساعدك</value>
+    <value>أطلق العنان لأفكارك... سنساعدك</value>
   </data>
   <data name="Ideablockp" xml:space="preserve">
-    <value>من خلال بساطة وجودة منتجاتنا يمكن الوصول بسرعه وسهوله لتطلعاتك</value>
+    <value>من خلال خبراتنا وجودة منتجاتنا العراقية يمكننا الوصول بسرعه وسهوله لتطلعاتك</value>
   </data>
   <data name="OURWORKh1" xml:space="preserve">
     <value>بعض</value>
   </data>
   <data name="OURWORKh2" xml:space="preserve">
-    <value>أعمالنا</value>
+    <value>منتجاتنا</value>
   </data>
   <data name="Quotationdtlh1" xml:space="preserve">
     <value>أطلب</value>
@@ -237,64 +237,64 @@
     <value>عرض اسعار</value>
   </data>
   <data name="Service1h1" xml:space="preserve">
-    <value>الطباعة </value>
+    <value>مناديل مبللة</value>
   </data>
   <data name="Service1h2" xml:space="preserve">
-    <value>ثلاثية الأبعاد</value>
+    <value>للمدارس</value>
   </data>
   <data name="Service1p" xml:space="preserve">
-    <value>على مدى السنوات التسع الماضيه حقق قسم الطباعه ثلاثية الابعاد موقعا رائدا فى تقديم خدمات الطباعه ثلاثية الابعاد باحترافيه من خلال توريد المعدات والبرامج لانظمة الطباعه الثلاثيه ولقد تخصصنا بخبرتنا فى هذه المنتجات</value>
+    <value>مناديل مدرسية لطلبة المدارس ، الأولاد ومناديل مخصصه للبنات</value>
   </data>
   <data name="Service2h1" xml:space="preserve">
-    <value>طباعه</value>
+    <value>مناديل</value>
   </data>
   <data name="Service2h2" xml:space="preserve">
-    <value>رقميه</value>
+    <value>نسائية</value>
   </data>
   <data name="Service2p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>مناديل نسائية متعددة الأستخدامات</value>
   </data>
   <data name="Service3h1" xml:space="preserve">
-    <value>منشورات </value>
+    <value>مناديل معطرة</value>
   </data>
   <data name="Service3h2" xml:space="preserve">
-    <value>مطبوعه</value>
+    <value>ومبخرة</value>
   </data>
   <data name="Service3p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>يوجد تشكيلة مقدمة من العربية للمناديل المبللة معطرة بأنواع مختلفة من العطور مثل العنبر وعطر البخور ودهن العود وعطر المسك منها عطور مخصصه للرجال والنساء.</value>
   </data>
   <data name="Service4h1" xml:space="preserve">
-    <value> مطبوعات</value>
+    <value>مناديل معقمه</value>
   </data>
   <data name="Service4h2" xml:space="preserve">
-    <value>مكتبيه</value>
+    <value>ومطهرة</value>
   </data>
   <data name="Service4p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>يوجد لدينا فى العربية للمناديل المبللة مجموعه متميزة من المناديل المعقمه تقضى على الجراثيم والفيروسات والبكتريا معدة للاستخدامات الطبية.</value>
   </data>
   <data name="Service5h1" xml:space="preserve">
-    <value>طباعة</value>
+    <value>مناديل</value>
   </data>
   <data name="Service5h2" xml:space="preserve">
-    <value>كتيب</value>
+    <value>مخصصه للأطفال</value>
   </data>
   <data name="Service5p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>نهتم فى العربية للمناديل المبللة بمنتجات الأطفال حيث توجد لدينا مناديل صحية مخصصه لنظافة الأطفال مع اعتبار أنها مرطبة للبشرة ووقايتهم من الميكروبات.</value>
   </data>
   <data name="Service6h1" xml:space="preserve">
-    <value>الطباعه</value>
+    <value>مناديل</value>
   </data>
   <data name="Service6h2" xml:space="preserve">
-    <value>الكبيره</value>
+    <value>نسائية</value>
   </data>
   <data name="Service6p" xml:space="preserve">
-    <value>أي قبل بزمام وبغطاء الغالي, قد أضف هناك الدمج الإطلاق. الجو واحدة الوزراء إيو ما, جيوب التي غريمه الى من, يتسنّى مشاركة بريطانيا أما ان. ليبين التكاليف الشّعبين أضف لم, وقد في تُصب الصعداء, على النفط وإيطالي البشريةً مع. كلّ عن لتقليعة وباستثناء بريطانيا-فرنسا, و وسوء لكون الأهداف ولم. ذات أي كُلفة الثالث, مما و مساعدة التنازلي, أجزاء الجنود ومن لم. مرجع الشرق، حدى ٣٠, تعد وبغطاء وهولندا، ثم.</value>
+    <value>نهتم بأناقتك فى العربية للمناديل المبللة حيث توجد لدينا مناديل معطرة ومبخرة للعبايات ، وأخرى لإزالة طلاء الاظافر كما يوجد أيضا مناديلة لإزالة الماكياج.</value>
   </data>
   <data name="Servicesh1" xml:space="preserve">
-    <value>خد</value>
+    <value>خدماتنا</value>
   </data>
   <data name="Servicesh2" xml:space="preserve">
-    <value>متنا</value>
+    <value>من العربية للمناديل المبللة</value>
   </data>
   <data name="Subscribebtn" xml:space="preserve">
     <value>اشترك</value>
@@ -380,10 +380,10 @@
   <data name="Facts2" xml:space="preserve">
     <value>سهولة</value>
   </data>
-  <data name="Facts3" xml:space="preserve">
+  <data name="Facts4" xml:space="preserve">
     <value>جودة</value>
   </data>
-  <data name="Facts4" xml:space="preserve">
+  <data name="Facts3" xml:space="preserve">
     <value>خبرة</value>
   </data>
   <data name="Footerblockh1" xml:space="preserve">
@@ -396,10 +396,10 @@
     <value>اتصل بنا</value>
   </data>
   <data name="Labelh1" xml:space="preserve">
-    <value>مل</value>
+    <value>كلمة</value>
   </data>
   <data name="Labelh2" xml:space="preserve">
-    <value>صق</value>
+    <value>رئيس مجلس الإدارة</value>
   </data>
   <data name="Labelh21" xml:space="preserve">
     <value>مناديل مخصوصه مبلله </value>
@@ -408,17 +408,17 @@
     <value>وجافه</value>
   </data>
   <data name="Labelp1" xml:space="preserve">
-    <value>علب مناديل مطبوعه مناديل الورق جيب ، والمناشف المنعشة والمناديل المبللة المطبوعة مع الشعار الخاص بك أو التصميم</value>
+    <value>نحن مؤمنون في قدراتنا من خلال شركة العربية للمناديل المبللة في توفير جزء كبير من إحتياجات السوق العراقية للمواد المنظفة والمطهرة و المعقمة ذات الاستخدام المنزلي أو الشخصي أو المكاتب والشركات وكذلك في المرافق العامه وفي المستشفيات ومنتجات الرعاية الصحية . لذا نسعى من خلال هذه الشركة بأن نجعل منتجاتها في متناول كل بيت او اسرة عراقية على ان تكون منتجاتها ذات جودة عالية واسعار مناسبة للجميع.</value>
   </data>
   <data name="Labelp2" xml:space="preserve">
     <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
 تكون وجدت مفهوما مثاليا لدعم أنشطة التسويق والبيع الخاصه بك  مع احدث ماكينات الطباعه نضمن لك التسليم فى الوقت المناسب يمكنك الاعتماد علينا</value>
   </data>
   <data name="Labelsection2h1" xml:space="preserve">
-    <value>علب مناديل </value>
+    <value>مناديل مبللة</value>
   </data>
   <data name="Labelsection2h2" xml:space="preserve">
-    <value>دعائيه</value>
+    <value>متعددة الاستخدامات</value>
   </data>
   <data name="Labelsection2p" xml:space="preserve">
     <value>ملصقك اعلانى فى حجم الجيب او شعارك الذى يدوم طويلا على كل سطح مكتب مع منتجات المناديل من العربيه للمناديل المبلله
@@ -663,5 +663,11 @@
   </data>
   <data name="Product34p" xml:space="preserve">
     <value>KFC</value>
+  </data>
+  <data name="Clientsh1" xml:space="preserve">
+    <value>عملاؤنا</value>
+  </data>
+  <data name="Clientsh2" xml:space="preserve">
+    <value>الكرام</value>
   </data>
 </root>

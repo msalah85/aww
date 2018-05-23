@@ -169,6 +169,24 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string Clientsh1 {
+            get {
+                return ResourceManager.GetString("Clientsh1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clients.
+        /// </summary>
+        public static string Clientsh2 {
+            get {
+                return ResourceManager.GetString("Clientsh2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Address.
         /// </summary>
         public static string ContactAddressh {

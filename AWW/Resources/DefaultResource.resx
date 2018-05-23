@@ -654,4 +654,10 @@
   <data name="Product34p" xml:space="preserve">
     <value>For KFC</value>
   </data>
+  <data name="Clientsh1" xml:space="preserve">
+    <value>Our</value>
+  </data>
+  <data name="Clientsh2" xml:space="preserve">
+    <value>Clients</value>
+  </data>
 </root>
