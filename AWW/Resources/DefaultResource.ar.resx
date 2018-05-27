@@ -249,10 +249,10 @@
     <value>مناديل</value>
   </data>
   <data name="Service2h2" xml:space="preserve">
-    <value>نسائية</value>
+    <value>خاصة للحج والعمرة</value>
   </data>
   <data name="Service2p" xml:space="preserve">
-    <value>مناديل نسائية متعددة الأستخدامات</value>
+    <value>مناديل مناديل واقية من الشمس وأخري معقمه ومطهرة للجراثيم</value>
   </data>
   <data name="Service3h1" xml:space="preserve">
     <value>مناديل معطرة</value>
@@ -453,7 +453,7 @@
 والتحديثات</value>
   </data>
   <data name="Ourmissionh1" xml:space="preserve">
-    <value>مهم</value>
+    <value>مهمــ</value>
   </data>
   <data name="Ourmissionh2" xml:space="preserve">
     <value>تنا</value>

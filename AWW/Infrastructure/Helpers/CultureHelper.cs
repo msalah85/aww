@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
-using System.Web;
 
 namespace AWW.Infrastructure.Helpers
 {
@@ -13,23 +12,17 @@ namespace AWW.Infrastructure.Helpers
 
         // Include ONLY cultures you are implementing
         private static readonly List<string> _cultures = new List<string> {
-            "en-US",  // first culture is the DEFAULT
-          
-            "ar"  // Arabic NEUTRAL culture
-           
+            "ar-AE",  // Arabic NEUTRAL culture // first culture is the DEFAULT
+            "en-US"
         };
 
         /// <summary>
         /// Returns true if the language is a right-to-left language. Otherwise, false.
         /// </summary>      
         public static bool IsRighToLeft()
-        {                      
-            return System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.IsRightToLeft;
-                        
+        {
+            return Thread.CurrentThread.CurrentCulture.TextInfo.IsRightToLeft;
         }
-
-
-
 
         /// <summary>
         /// Returns a valid culture name based on "name" parameter. If "name" is not valid, it returns the default culture "en-US"
@@ -74,7 +67,6 @@ namespace AWW.Infrastructure.Helpers
         public static string GetDefaultCulture()
         {
             return _cultures[0]; // return Default culture
-
         }
 
         public static string GetCurrentCulture()
@@ -95,10 +87,5 @@ namespace AWW.Infrastructure.Helpers
 
             return name.Substring(0, 2); // Read first two chars only. E.g. "en", "es"
         }
-
-
-
-
-
     }
 }
