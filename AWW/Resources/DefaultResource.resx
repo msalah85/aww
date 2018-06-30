@@ -610,10 +610,10 @@
     <value>For restaurants</value>
   </data>
   <data name="Product5h" xml:space="preserve">
-    <value>Wet Wipes</value>
+    <value>KAFTAN Turkish</value>
   </data>
   <data name="Product5p" xml:space="preserve">
-    <value>For restaurants</value>
+    <value>Slim Flowpack (16x12) Wet Tissue (16x18)</value>
   </data>
   <data name="Product6h" xml:space="preserve">
     <value>Wet Wipes</value>
@@ -659,5 +659,17 @@
   </data>
   <data name="Clientsh2" xml:space="preserve">
     <value>Clients</value>
+  </data>
+  <data name="Product37h" xml:space="preserve">
+    <value>KABAB ERBIL IRAQ</value>
+  </data>
+  <data name="Product37p" xml:space="preserve">
+    <value>Single FlowPack (14x18) Wet Tissue (17 x 18)</value>
+  </data>
+  <data name="Product38h" xml:space="preserve">
+    <value>BESTOON SAMAD Restaurant</value>
+  </data>
+  <data name="Product38p" xml:space="preserve">
+    <value>Small Towel Small Folding (12x14) Towel size (22x22)</value>
   </data>
 </root>

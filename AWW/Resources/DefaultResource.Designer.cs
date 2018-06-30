@@ -1276,6 +1276,42 @@ namespace AWW.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to KABAB ERBIL IRAQ.
+        /// </summary>
+        public static string Product37h {
+            get {
+                return ResourceManager.GetString("Product37h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Single FlowPack (14x18) Wet Tissue (17 x 18).
+        /// </summary>
+        public static string Product37p {
+            get {
+                return ResourceManager.GetString("Product37p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to BESTOON SAMAD Restaurant.
+        /// </summary>
+        public static string Product38h {
+            get {
+                return ResourceManager.GetString("Product38h", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Small Towel Small Folding (12x14) Towel size (22x22).
+        /// </summary>
+        public static string Product38p {
+            get {
+                return ResourceManager.GetString("Product38p", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Wet Wipes.
         /// </summary>
         public static string Product3h {
@@ -1312,7 +1348,7 @@ namespace AWW.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Wet Wipes.
+        ///   Looks up a localized string similar to KAFTAN Turkish.
         /// </summary>
         public static string Product5h {
             get {
@@ -1321,7 +1357,7 @@ namespace AWW.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to For restaurants.
+        ///   Looks up a localized string similar to Slim Flowpack (16x12) Wet Tissue (16x18).
         /// </summary>
         public static string Product5p {
             get {

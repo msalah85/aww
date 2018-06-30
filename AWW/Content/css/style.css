@@ -115,7 +115,7 @@ ul {
 }
 
 .product-img, .product-img a {
-    cursor: url(../images/icons/curson-plus.png), auto
+    cursor: url(/content/images/icons/curson-plus.png), auto
 }
 
 .gradient-overlay, .navbar-default {
@@ -317,7 +317,7 @@ ul {
     border-color: transparent;
     border-radius: 0;
     transition: all .3s ease;
-    background-image: url('../images/bg/testimonial_bg.jpg')
+    background-image: url('/content/images/bg/testimonial_bg.jpg')
 }
 
     .navbar-default .navbar-nav li a, .navbar-default .navbar-nav li a:focus, .work-block {
@@ -832,7 +832,7 @@ ul {
 
 .services-tab {
     position: absolute;
-    top: 228px;
+    top: 80px;
     left: 50%
 }
 
@@ -1997,7 +1997,7 @@ select + i.fa {
 }
 
 .product-dtl {
-    padding: 10px 30px 40px;
+    padding: 10px 15px 1px 1px;
     background-color: #ECECEC
 }
 
@@ -2518,7 +2518,7 @@ a.download-link {
 }
 
 .status {
-    background-image: url(../images/logo-footer.png);
+    background-image: url(/content/images/logo-footer.png);
     animation: bounce 1s infinite;
     -webkit-animation: bounce 1s infinite;
     -moz-animation: bounce 1s infinite;

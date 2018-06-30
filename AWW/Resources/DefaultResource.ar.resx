@@ -303,13 +303,13 @@
     <value>العنوان</value>
   </data>
   <data name="ContactAddressp1" xml:space="preserve">
-    <value>ص ب: صندوق 8480 منطقة سيف</value>
+    <value>العراق - بغداد</value>
   </data>
   <data name="ContactAddressp2" xml:space="preserve">
-    <value>الشارقه الامارات العربيه المتحده</value>
+    <value />
   </data>
   <data name="Contactdetailsh" xml:space="preserve">
-    <value>بيانات - الاتصال</value>
+    <value>بيانات الاتصال</value>
   </data>
   <data name="ContactEmailh" xml:space="preserve">
     <value>البريد الالكترونى</value>
@@ -318,7 +318,7 @@
     <value />
   </data>
   <data name="ContactEmailp2" xml:space="preserve">
-    <value>awwiq@ymail.com</value>
+    <value>awwiq@gmail.com</value>
   </data>
   <data name="ContactEmailp3" xml:space="preserve">
     <value> www.awwiq.com</value>
@@ -590,10 +590,10 @@
     <value>معطره ومنعشه</value>
   </data>
   <data name="Product1h" xml:space="preserve">
-    <value>مناديل مبلله</value>
+    <value>رمان كافيه</value>
   </data>
   <data name="Product1p" xml:space="preserve">
-    <value>للمقهى</value>
+    <value>أكياس مبللة ومطيبة (6x8) مناديل بحجم (18x12)</value>
   </data>
   <data name="Product20h" xml:space="preserve">
     <value>مناديل مبلله</value>
@@ -602,10 +602,10 @@
     <value>للمطاعم</value>
   </data>
   <data name="Product2h" xml:space="preserve">
-    <value>مناديل مبلله معطره</value>
+    <value>مجمع مطاعم عيون بغداد</value>
   </data>
   <data name="Product2p" xml:space="preserve">
-    <value>للمطاعم</value>
+    <value>أكياس مناديل مبللة ومعطرة بحجم (18x17)</value>
   </data>
   <data name="Product3h" xml:space="preserve">
     <value>مناديل مبلله </value>
@@ -614,22 +614,22 @@
     <value>للاطفال</value>
   </data>
   <data name="Product4h" xml:space="preserve">
-    <value>مناديل مبلله </value>
+    <value>سالات دبي - Salat Dubai</value>
   </data>
   <data name="Product4p" xml:space="preserve">
-    <value>للمطاعم</value>
+    <value>عبوة بحجم (7x14) مناديل مبللة (18x16)</value>
   </data>
   <data name="Product5h" xml:space="preserve">
-    <value>مناديل مبلله</value>
+    <value>كافتان التركي</value>
   </data>
   <data name="Product5p" xml:space="preserve">
-    <value>للمطاعم</value>
+    <value>عبوة رفيعة (16x12)، مناديل مبللة (18x16)</value>
   </data>
   <data name="Product6h" xml:space="preserve">
-    <value>مناديل مبلله</value>
+    <value>كاميلز أيس كريم</value>
   </data>
   <data name="Product6p" xml:space="preserve">
-    <value>للمطاعم</value>
+    <value>أكياس مناديل مبللة ومعطرة  بحجم (18x17)</value>
   </data>
   <data name="Product7h" xml:space="preserve">
     <value>مناديل مبلله</value>
@@ -669,5 +669,17 @@
   </data>
   <data name="Clientsh2" xml:space="preserve">
     <value>الكرام</value>
+  </data>
+  <data name="Product37h" xml:space="preserve">
+    <value>مناديل لمطعم وكباب إربيل العراقي</value>
+  </data>
+  <data name="Product37p" xml:space="preserve">
+    <value>عبوة بحجم (14x18) مناديل مبللة (17x18)</value>
+  </data>
+  <data name="Product38h" xml:space="preserve">
+    <value>مناديل مطعم بيستون صمد</value>
+  </data>
+  <data name="Product38p" xml:space="preserve">
+    <value>عبوة بحجم (12x14) مناشف مبللة (22x22)</value>
   </data>
 </root>

@@ -19,7 +19,7 @@ namespace AWW.Controllers
             if (cultureCookie != null)
                 cultureName = cultureCookie.Value;
             else
-                cultureName = Request.UserLanguages != null && Request.UserLanguages.Length > 0 ? Request.UserLanguages[0] : null; // obtain it from HTTP header AcceptLanguages
+                cultureName = "ar"; // Request.UserLanguages != null && Request.UserLanguages.Length > 0 ? Request.UserLanguages[0] : null; // obtain it from HTTP header AcceptLanguages
 
             // Validate culture name
             cultureName = CultureHelper.GetImplementedCulture(cultureName); // This is safe

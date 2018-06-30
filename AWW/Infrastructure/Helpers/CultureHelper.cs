@@ -53,7 +53,6 @@ namespace AWW.Infrastructure.Helpers
                     return c;
 
 
-
             // else 
             // It is not implemented
             return GetDefaultCulture(); // return Default culture as no match found
