@@ -34,14 +34,14 @@ h3 {
 }
 
 .form-control, h6, p {
-    font-size: 14px
+    font-size: 13px
 }
 
 p {
     color: #000;
     line-height: 30px;
     /*letter-spacing: .05em;*/
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400
 }
 
@@ -1960,7 +1960,7 @@ select + i.fa {
 }
 
 .products-main-block .section-heading {
-    margin-bottom: 96px
+    margin-bottom: 50px
 }
 
 .product-block {
